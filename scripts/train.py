@@ -3,7 +3,7 @@ import json
 import pandas as pd
 from datasets import Dataset
 from unsloth import FastLanguageModel
-from trl import SFTrainer, SFTConfig
+from trl import SFTTrainer, SFTConfig
 from sklearn.metrics import accuracy_score
 
 MODEL_NAME = "unsloth/Qwen2.5-1.5B-Instruct"
@@ -45,12 +45,12 @@ def main():
     test_ds = Dataset.from_pandas(test_df)
 
     model, tokenizer = FastLanguageModel.from_pretrained(
-        model_name =MODEL_NAME,
+        model_name=MODEL_NAME,
         max_seq_length=MAX_SEQ_LENGTH,
-        dtype="auto",
+        dtype=None,
         load_in_4bit=True,
     )
-
+    
     model = FastLanguageModel.get_peft_model(
         model,
         r=16,
@@ -88,7 +88,7 @@ def main():
             save_total_limit=2,
             warmup_steps=10,
             lr_scheduler_type="linear",
-            weight_devay=0.01,
+            weight_decay=0.01,
             fp16=False,
             bf16=False,
             report_to="none",
@@ -105,6 +105,6 @@ def main():
         json.dump(mapping, f, ensure_ascii=False, indent=2)
 
     print(f"Save to {OUTPUT_DIR}")
-    
+
 if __name__ == "__main__":
     main()
