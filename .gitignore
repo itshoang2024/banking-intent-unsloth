@@ -1,4 +1,3 @@
 .env
 hf_cache/
 .vscode/
-outputs/
