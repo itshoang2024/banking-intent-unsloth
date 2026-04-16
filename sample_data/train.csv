@@ -1,0 +1,1351 @@
+,text,label,label_name
+0,I am still waiting on my card?,11,card_arrival
+1,What can I do if my card still hasn't arrived after 2 weeks?,11,card_arrival
+2,I have been waiting over a week. Is the card still coming?,11,card_arrival
+3,Can I track my card while it is in the process of delivery?,11,card_arrival
+4,"How do I know if I will get my card, or if it is lost?",11,card_arrival
+5,When did you send me my new card?,11,card_arrival
+6,Do you have info about the card on delivery?,11,card_arrival
+7,What do I do if I still have not received my new card?,11,card_arrival
+8,Does the package with my card have tracking?,11,card_arrival
+9,I ordered my card but it still isn't here,11,card_arrival
+10,Why has my new card still not come?,11,card_arrival
+11,"I still haven't received my card after two weeks, is it lost?",11,card_arrival
+12,Can you track my card for me?,11,card_arrival
+13,Is there a way to track the delivery of my card?,11,card_arrival
+14,It's been a week since I ordered my card and it's not here. Please help?,11,card_arrival
+15,Will I be able to track the card that was sent to me?,11,card_arrival
+16,I don't have my card in 1 week.  Should I be worried?,11,card_arrival
+17,How do I know when my new card is going to arrive?,11,card_arrival
+18,My new card has not been delivered to my home yet. What is going on?,11,card_arrival
+19,It's been a week since you issued me a card and I still didn't get it. Should I keep waiting?,11,card_arrival
+20,"On the card that is coming, what's the tracking info?",11,card_arrival
+21,What is the status of my card's delivery?,11,card_arrival
+22,Have you sent out my card yet?,11,card_arrival
+23,My card isn't here yet.,11,card_arrival
+24,where is my new card?,11,card_arrival
+25,It's been a week since you sent my card and I still don't have it.,11,card_arrival
+26,How do I track the card you sent me?,11,card_arrival
+27,When will I recieve my new card?,11,card_arrival
+28,When will I get my new card?,11,card_arrival
+29,What is the expected delivery date for my card?,11,card_arrival
+30,Is there a tracking number for the card you sent me?,11,card_arrival
+31,I would like to track the card you sent to me.,11,card_arrival
+32,Has my card been lost in delivery?,11,card_arrival
+33,My new card hasn't came in.,11,card_arrival
+34,Where is the card I ordered 2 weeks ago?,11,card_arrival
+35,Can I get an update on my replacement card?,11,card_arrival
+36,How long does it take for a new card to ship?,11,card_arrival
+37,What's the tracking on the card you sent?,11,card_arrival
+38,I haven't received my card and am worried it is lost.,11,card_arrival
+39,My card still hasn't been delivered,11,card_arrival
+40,I need to find out where the card is that I ordered.,11,card_arrival
+41,Where is my credit card that was to be mailed?,11,card_arrival
+42,I ordered my card but it hasn't been delivered yet,11,card_arrival
+43,Am I able to track the card that was just sent to me?,11,card_arrival
+44,Can you tell me why I haven't received my new card?,11,card_arrival
+45,I'm still waiting for my new card.,11,card_arrival
+46,Is my card lost? I am still waiting for it to be delivered.,11,card_arrival
+47,Should I keep waiting for my card to be delivered?,11,card_arrival
+48,Can I track when my card will be delivered?,11,card_arrival
+49,How can I check on the status of my new card?,11,card_arrival
+50,"A card has been sent to me, how do I track it?",11,card_arrival
+51,Is there a way I can get my card expedited?,11,card_arrival
+52,What can I do to track the card you sent me?,11,card_arrival
+53,why hasnt my card come in yet?,11,card_arrival
+54,How can I periodically check the delivery of the card you sent?,11,card_arrival
+55,What's the reason my new card hasn't come?,11,card_arrival
+56,How long does it take for me to get my new card?,11,card_arrival
+57,I don't have my card after 1 week. What are my next steps?,11,card_arrival
+58,I know I'm getting a new card but would like know when I can expect to receive it.,11,card_arrival
+59,I want to find out what happened to my new card?,11,card_arrival
+60,Was there a way for me to get tracking for that?,11,card_arrival
+61,I am still waiting for my card.,11,card_arrival
+62,My card hasn't arrived.,11,card_arrival
+63,Can I track the card you sent to me?,11,card_arrival
+64,I haven't gotten my new card.,11,card_arrival
+65,How long should it take for my new card to arrive in them mail? What should I do if I never receive it?,11,card_arrival
+66,Will I have to wait much longer for my new card to arrive?,11,card_arrival
+67,how to track the card you sent,11,card_arrival
+68,2 weeks ago I ordered my new card.  It isn't here.  What should I do?,11,card_arrival
+69,How can I check on the delivery status of my card?,11,card_arrival
+70,"My card has not been delivered yet and its been a week since I ordered it, please help",11,card_arrival
+71,What's the expected wait time to recieve my new card?,11,card_arrival
+72,How can I see the progress of delivery of the card that was sent?,11,card_arrival
+73,"My card was supposed to arrive, but hasn't?",11,card_arrival
+74,I ordered a card and would like to know how to track the delivery progress of it.,11,card_arrival
+75,How long will it take for me to get my card?,11,card_arrival
+76,My card hasn't shown up yet.,11,card_arrival
+77,Does the card you sent have a tracking number?,11,card_arrival
+78,My card hasn't arrived in the mail yet. I ordered it two weeks ago. What can I do?,11,card_arrival
+79,maximum how many days get the courier?,11,card_arrival
+80,Is there a reason my new card hasn't arrived yet?,11,card_arrival
+81,"I've been waiting a while for my card, is there a way to know when it will arrive?",11,card_arrival
+82,How can I track my card's delivery?,11,card_arrival
+83,Can I track the card that was just sent to me?,11,card_arrival
+84,"If I ordered my new card last week, how much longer should I wait to receive it?",11,card_arrival
+85,"What's go on, where is my new card?",11,card_arrival
+86,Where is my new card if I haven't received it yet?,11,card_arrival
+87,Where is my card?,11,card_arrival
+88,Can you tell me why I haven't received my new card yet?,11,card_arrival
+89,Is there a way to track my card?,11,card_arrival
+90,Is there a way to track the new card you sent me?,11,card_arrival
+91,I'm still waiting for my card.,11,card_arrival
+92,What do I need to do to get my new card which I have requested 2 weeks ago?,11,card_arrival
+93,WHAT IS THE SOLUTION OF THIS PROBLEM,11,card_arrival
+94,Could I get tracking on the card?,11,card_arrival
+95,Can you help me track my card?,11,card_arrival
+96,Shouldn't my new card be here by now?,11,card_arrival
+97,Is there a reason my new card hasn't arrived?,11,card_arrival
+98,"I would like to track a card sent to me, how do I do that?",11,card_arrival
+99,Is there a tracking number for the card?,11,card_arrival
+100,can you share card tracking number?,11,card_arrival
+101,"I have not received my card and it's been a week, what do I do?",11,card_arrival
+102,Is there a way I can check on the card on route to me?,11,card_arrival
+103,When will my new card arrive?,11,card_arrival
+104,Why haven't I received my new card yet?,11,card_arrival
+105,What is the expected delivery date of my card?,11,card_arrival
+106,My card hasn't came in the mail yet?,11,card_arrival
+107,I haven't received my card.,11,card_arrival
+108,Is it possible for me to track the card is was mailed to me?,11,card_arrival
+109,When will my new card be delivered?,11,card_arrival
+110,I was issued a card about a week ago. why hasn't it come in yet?,11,card_arrival
+111,Can you please tell me where my card is? I ordered it 2 weeks ago!,11,card_arrival
+112,I still haven't received my card in the mail,11,card_arrival
+113,I'm still waiting for my card that was issued a week ago. What should I do?,11,card_arrival
+114,I still haven't gotten my new card.  When will it get here?,11,card_arrival
+115,Do you have a tracking number for the card I was sent?,11,card_arrival
+116,How do I track the card you sent to me?,11,card_arrival
+117,Is my new bank card on the way and is there a way to track it?,11,card_arrival
+118,Could you send me and up date on the arrival of my card?,11,card_arrival
+119,How long does it take to recieve my new card?,11,card_arrival
+120,My card has not come in the mail yet.,11,card_arrival
+121,What's the card you sent me's tracking number?,11,card_arrival
+122,i havent got my card,11,card_arrival
+123,Why hasn't my card arrived yet?,11,card_arrival
+124,I thought I would have received my new card at this point.,11,card_arrival
+125,How long until my new card gets here?,11,card_arrival
+126,How much longer until I get my new card?,11,card_arrival
+127,Am I able to track a card that has already been sent?,11,card_arrival
+128,Is it possible to track the card you sent me?,11,card_arrival
+129,How long will it be to get this new card?,11,card_arrival
+130,how can i track card you sent,11,card_arrival
+131,Can the card was sen to me be tracked?,11,card_arrival
+132,why have i not got my new card?,11,card_arrival
+133,I need to track the card sent to me.,11,card_arrival
+134,"It's been two weeks and I haven't gotten my card, what do I do?",11,card_arrival
+135,I was expecting my new card by now.,11,card_arrival
+136,Where is the tracking number for the card?,11,card_arrival
+137,I was issued a new card a week ago but still haven't received it. How long will it be until I receive it?,11,card_arrival
+138,Can I track the card that you sent me in the mail?,11,card_arrival
+139,Can you tell me if I can track the card you sent me?,11,card_arrival
+140,Why have I not gotten my new card?,11,card_arrival
+141,I'm still waiting on my new card to be delivered!,11,card_arrival
+142,My new card isn't here and it was issued a week ago.,11,card_arrival
+143,"I was supposed to receive my new card by now, but it hasn't came in.",11,card_arrival
+144,Is a tracking number available for the card that was just sent?,11,card_arrival
+145,Why haven't I gotten my new card?,11,card_arrival
+146,Was there a number to track that I could get?,11,card_arrival
+147,How much longer is it going to take to get my new card?,11,card_arrival
+148,I haven't gotten my credit card in the mail.,11,card_arrival
+149,My card hasn't arrived yet. What do I do?,11,card_arrival
+150,"My card still hasn't arrived after two weeks, now what?",11,card_arrival
+151,My card appears to have never arrived?,11,card_arrival
+152,My card never arrived.,11,card_arrival
+1006,Can it specifically be delivered on a certain date?,12,card_delivery_estimate
+1007,I need to get my card quickly,12,card_delivery_estimate
+1008,When can I expect my card? I live in the US.,12,card_delivery_estimate
+1009,Help! When will the card arrive at my home?,12,card_delivery_estimate
+1010,Can I get my card fast tracked?,12,card_delivery_estimate
+1011,How long is the wait for my card?,12,card_delivery_estimate
+1012,i need to expedite my card,12,card_delivery_estimate
+1013,When should I expect to receive my card?,12,card_delivery_estimate
+1014,How long until my card will get here?,12,card_delivery_estimate
+1015,How long is the delivery time to the US?,12,card_delivery_estimate
+1016,Can I have it delivered on a specific date?,12,card_delivery_estimate
+1017,"i am express delivering my card to the us, how long will that take",12,card_delivery_estimate
+1018,I need my card soon.,12,card_delivery_estimate
+1019,Can I choose when my card is delivered?,12,card_delivery_estimate
+1020,When will my card be here?,12,card_delivery_estimate
+1021,How long will delivery to the US take?,12,card_delivery_estimate
+1022,When can I expect delivery?,12,card_delivery_estimate
+1023,Can I specify a day for my card to be delivered?,12,card_delivery_estimate
+1024,I'm worried my card might be lost in the mail? How long does it usually take to arrive?,12,card_delivery_estimate
+1025,When will my card be delivered?,12,card_delivery_estimate
+1026,can the delivery be specific to my needs?,12,card_delivery_estimate
+1027,how long does delivery take?,12,card_delivery_estimate
+1028,"To deliver to the US, how long will it take?",12,card_delivery_estimate
+1029,How quickly can you get me my card?,12,card_delivery_estimate
+1030,can I choose delivery times to suite me?,12,card_delivery_estimate
+1031,Can I choose the day it's delivered?,12,card_delivery_estimate
+1032,How long will this take to get to me?,12,card_delivery_estimate
+1033,When shipped to the US how long is delivery time?,12,card_delivery_estimate
+1034,"Give me my card, I need it now!",12,card_delivery_estimate
+1035,I'd like to have it delivered on Saturday.  Is that possible?,12,card_delivery_estimate
+1036,How long will I have to wait for my new card?,12,card_delivery_estimate
+1037,How long is a delivery to the US?,12,card_delivery_estimate
+1038,What is the delivery time to the US?,12,card_delivery_estimate
+1039,How long does it take for deliver to the US?,12,card_delivery_estimate
+1040,If I order a card when does it arrive?,12,card_delivery_estimate
+1041,When can I expect my card?,12,card_delivery_estimate
+1042,How long is delivery to the US?,12,card_delivery_estimate
+1043,What is your shipping policies for cards?,12,card_delivery_estimate
+1044,I ordered my card and it isn't here yet. I need it ASAP. When can I expect to get it?,12,card_delivery_estimate
+1045,how long should I expect to wait for my card to arrive?,12,card_delivery_estimate
+1046,When will my card come? I need it as soon as possible!,12,card_delivery_estimate
+1047,How long should I wait for the card to arrive?,12,card_delivery_estimate
+1048,What is the wait time for delivery to the US?,12,card_delivery_estimate
+1049,Can you tell me when my card will arrive?,12,card_delivery_estimate
+1050,When can I expect my card to arrive?,12,card_delivery_estimate
+1051,Can I have it delivered on the date I need it delivered?,12,card_delivery_estimate
+1052,What is the length of time for one of these items to come to the U.S?,12,card_delivery_estimate
+1053,How long will it take to have my card mailed to me?,12,card_delivery_estimate
+1054,Can cards be dispatched on a specific date?,12,card_delivery_estimate
+1055,Can I have it by a certain date?,12,card_delivery_estimate
+1056,I need my card as quick as possible,12,card_delivery_estimate
+1057,How long will it take my card to get here?,12,card_delivery_estimate
+1058,Is there a specific date it can be delivered by?,12,card_delivery_estimate
+1059,I need my card to be delivered fast,12,card_delivery_estimate
+1060,Is there a specific date i can have it delivered?,12,card_delivery_estimate
+1061,How long will it take to deliver to the US?,12,card_delivery_estimate
+1062,I need my card ASAP!,12,card_delivery_estimate
+1063,How long will it take to get to the US?,12,card_delivery_estimate
+1064,How soon will I get my card?,12,card_delivery_estimate
+1065,What is the estimated date for delivery to US?,12,card_delivery_estimate
+1066,How long does it take for the card to come?,12,card_delivery_estimate
+1067,When will I receive the card?,12,card_delivery_estimate
+1068,When should I expect my card to arrive?,12,card_delivery_estimate
+1069,Can I pay more to get it deliver quicker?,12,card_delivery_estimate
+1070,How long is the delivery to the US?,12,card_delivery_estimate
+1071,Send me my card now! ASAP,12,card_delivery_estimate
+1072,"I haven't received my card yet, how long does it normally take?",12,card_delivery_estimate
+1073,How long is US delivery?,12,card_delivery_estimate
+1074,can you express my card to me?,12,card_delivery_estimate
+1075,When will it get delivered?,12,card_delivery_estimate
+1076,how soon will my card arrive?,12,card_delivery_estimate
+1077,I ordered my card a couple weeks ago and haven't received it yet. When can I expect it?,12,card_delivery_estimate
+1078,How long does it take for cards to be delivered after ordering them?,12,card_delivery_estimate
+1079,"If I need delivery on a certain day, is that something that could be accommodated?",12,card_delivery_estimate
+1080,how much to get my card in 2 days?,12,card_delivery_estimate
+1081,When are cards shipped?,12,card_delivery_estimate
+1082,My card is needed soon,12,card_delivery_estimate
+1083,What is the delivery time for US?,12,card_delivery_estimate
+1084,I placed my order a week ago. Is it ok that my card isn't here yet?,12,card_delivery_estimate
+1085,How soon do cards arrive after I order them?,12,card_delivery_estimate
+1086,How will I get my card?,12,card_delivery_estimate
+1087,How long does it take to receive my card?,12,card_delivery_estimate
+1088,How long until the card arrives?,12,card_delivery_estimate
+1089,Can I have my card delivered on Tuesday?,12,card_delivery_estimate
+1090,Can you tell me how long it takes for a new card to come?,12,card_delivery_estimate
+1091,i need to add express delivery if that's an option,12,card_delivery_estimate
+1092,I need my card right away.,12,card_delivery_estimate
+1093,Can i choose a specific delivery date?,12,card_delivery_estimate
+1094,When will I get my card shipped to me?,12,card_delivery_estimate
+1095,Do I have a say when it's delivered?,12,card_delivery_estimate
+1096,I need my card delivered as soon as possible.,12,card_delivery_estimate
+1097,I would like to make sure it is delivered on a certain date.,12,card_delivery_estimate
+1098,When will I receive my card?,12,card_delivery_estimate
+1099,Could I chose the date to have it delivered?,12,card_delivery_estimate
+1100,How long does it take for a card to arrive?,12,card_delivery_estimate
+1101,Will my card be here soon?,12,card_delivery_estimate
+1102,Please send my card as quickly as possible.,12,card_delivery_estimate
+1103,how long does it take to get my card i am in a rush,12,card_delivery_estimate
+1104,When can I expect to receive my card?,12,card_delivery_estimate
+1105,Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.,12,card_delivery_estimate
+1106,How many days to deliver to a US customer?,12,card_delivery_estimate
+1107,When can I expect my new card to get here?,12,card_delivery_estimate
+1108,How long are deliveries to the US?,12,card_delivery_estimate
+1109,Can it be delivered on a certain date?,12,card_delivery_estimate
+1110,What is delivery speed to the United States?,12,card_delivery_estimate
+1111,How long does it take for something to be delivered to the U.S?,12,card_delivery_estimate
+1112,How long does it take for my physical card to be delivered.,12,card_delivery_estimate
+1113,what is the leadtime for a new card to show up in the mail?,12,card_delivery_estimate
+1114,What's the earliest time to receive my card?,12,card_delivery_estimate
+1115,are you sending me my card?,12,card_delivery_estimate
+1116,I need my card immediately.,12,card_delivery_estimate
+1117,When will it be delivered to the US?,12,card_delivery_estimate
+1245,I can't use my card because it is not working.,14,card_not_working
+1246,I can't seem to be able to use my card,14,card_not_working
+1247,"My card isn't working at all, I need assistance. It's really frustrating.",14,card_not_working
+1248,Can you tell me what the problem with my card is? It was declined at a restaurant today.,14,card_not_working
+1249,How do I fix a broken card?,14,card_not_working
+1250,My card was working but now it doesn't.,14,card_not_working
+1251,I cannot seem to use my card.,14,card_not_working
+1252,I think my card is broke it's not working anymore,14,card_not_working
+1253,I have not been able to use this card.,14,card_not_working
+1254,What do I do if i accidentally broke my card?,14,card_not_working
+1255,How come my card doesn't work anymore?,14,card_not_working
+1256,"For a week now, I have tried to use my card and it is still not working.",14,card_not_working
+1257,My actual card isn't functioning.,14,card_not_working
+1258,I can't get the card itself to work.,14,card_not_working
+1259,What should I do if my card doesn't work?,14,card_not_working
+1260,Why won't my card work.,14,card_not_working
+1261,My card will not work,14,card_not_working
+1262,My card is not working.,14,card_not_working
+1263,HOW LONG THE CARD VALIDITY,14,card_not_working
+1264,My card seems to not be working at all.,14,card_not_working
+1265,My card gets rejected when I try to use it,14,card_not_working
+1266,I am unable to use my card for some reason.,14,card_not_working
+1267,Why can't I use my card?,14,card_not_working
+1268,I think my card is broke?,14,card_not_working
+1269,What do I do?  My card is broken.,14,card_not_working
+1270,"My Netflix subscription says that there is an issue with my card information, but I thought everything was fine. Why would it be declined?",14,card_not_working
+1271,My card was declined at a restaurant today and I don't know what the problem is.,14,card_not_working
+1272,WHAT IS THE REASON FOR THAT,14,card_not_working
+1273,My card is not working when I try to use it.,14,card_not_working
+1274,How do I check security settings on my card?,14,card_not_working
+1275,My card isn't working at all. What happened?,14,card_not_working
+1276,Today I was out eating and my card was declined. Why's that?,14,card_not_working
+1277,What are ways to test why my card might not be working?,14,card_not_working
+1278,Currently my card is broken.,14,card_not_working
+1279,My card won't work at all for anything.,14,card_not_working
+1280,How do I fix my card if it is broken?,14,card_not_working
+1281,Why doesn't my card work for any transactions?,14,card_not_working
+1282,"I tried using my card, but it doesn't work.",14,card_not_working
+1283,My card hasn't been working for even small transactions today.,14,card_not_working
+1284,What do I do if the machine rejects my card?,14,card_not_working
+1285,Something's wrong my card won't work.,14,card_not_working
+1286,I tried to use my card today in the restaurant but it didn't work and just got declined. What's wrong?,14,card_not_working
+1287,"Suddenly, my card won't work.",14,card_not_working
+1288,My card hasn't been working when I try to use it.,14,card_not_working
+1289,My physical card is not working,14,card_not_working
+1290,"
+I can't seem to be able to use my card
+
+
+",14,card_not_working
+1291,Why is my physical card not working?,14,card_not_working
+1292,Help.  My card is broken.,14,card_not_working
+1293,I am unable to use my card.,14,card_not_working
+1294,"No transactions are being accepted, what's wrong with my card?",14,card_not_working
+1295,Is my card frozen?,14,card_not_working
+1296,My card was declined at a restaurant today and I am not sure why.,14,card_not_working
+1297,What do I do now that I can't use this card?,14,card_not_working
+1298,My card doesn't seem to work anymore,14,card_not_working
+1299,"Out of the blue, my card stopped working.",14,card_not_working
+1300,I can't seem to use my card. Can you help?,14,card_not_working
+1301,How do I re-order a damaged card?,14,card_not_working
+1302,Why is my card not working anymore?,14,card_not_working
+1303,I can't use my card for anything,14,card_not_working
+1304,What's wrong with my card? The clerk at the grocery store said it was declined.,14,card_not_working
+1305,What should I do if I can't use my card?,14,card_not_working
+1306,Can I use app to reset PIN attempts?,14,card_not_working
+1307,Please help.  The card won't work.,14,card_not_working
+1308,I wasn't able to use my card today when I went out for lunch. Wondering why that is?,14,card_not_working
+1309,My card doesn't seem to work.,14,card_not_working
+1310,Currently I can't get my card to work.,14,card_not_working
+1311,WHAT IS THE MAIN REASON OF THIS PROBLEM,14,card_not_working
+1312,How do I get my card to work?,14,card_not_working
+1313,What can I do to make my physical card work?,14,card_not_working
+1314,Can you tell me why I can't make any transactions?,14,card_not_working
+1315,There is something wrong with my card. Tried to use it a few times today in different places and it just didn't work. The transactions I tried to make were really small so not sure what's going on,14,card_not_working
+1316,Can you tell me whats going on with my card it seems to be not working?,14,card_not_working
+1317,How do I check security settings using the app?,14,card_not_working
+1318,I tried using my card at multiple vendors and now it's not working.,14,card_not_working
+1319,"Can you help me with my card, I think it's broke.",14,card_not_working
+1320,The card is non-functional.,14,card_not_working
+1321,I haven't been able to complete any transactions on my card today. Do you know what's wrong?,14,card_not_working
+1322,Today I used my card at a restaurant and it was declined. Why?,14,card_not_working
+1323,Did you deactivate my card it's not working anymore,14,card_not_working
+1324,Need help to get my card to work.,14,card_not_working
+1325,Why isn't my card working anymore?,14,card_not_working
+1326,Why won't my card work anymore?,14,card_not_working
+1327,Why won't the machine accept my card anymore?,14,card_not_working
+1328,When I was in a restaurant today my card was declined and payment wouldn't go through and I need help. Can you fix this?,14,card_not_working
+1329,What to do if my physical card is not working?,14,card_not_working
+1330,My card stopped working after multiple transactions. Why?,14,card_not_working
+1331,Why won't my card accept any transactions?,14,card_not_working
+1332,"I think my card is broken or something. I tried using it and it wouldn't go through, please help.",14,card_not_working
+1333,My card is broken,14,card_not_working
+1334,I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account?,14,card_not_working
+1335,My card no longer works.,14,card_not_working
+1336,I seem to be unable to make any transactions.,14,card_not_working
+1337,I can't get my actual card to work,14,card_not_working
+1338,My card doesn't work when I use it.,14,card_not_working
+1339,What do I do if my card gets broken?,14,card_not_working
+1340,I am having problems with my physical card.,14,card_not_working
+1341,How can I get my card to work?,14,card_not_working
+1342,I need help with understanding why my card is not working.,14,card_not_working
+1343,Please help me!  My physical card isn't working right.,14,card_not_working
+1344,My card stopped working. How do I check if there is a freeze on it?,14,card_not_working
+1345,"I don't know what's wrong with my card, but it has not worked at multiple places today.",14,card_not_working
+1346,I need clarity on why my card is not working.,14,card_not_working
+1347,My card won't physically work.,14,card_not_working
+1348,What's going on? My card wont accept any transactions.,14,card_not_working
+1349,My card don't work.,14,card_not_working
+1350,My card won't work right now.,14,card_not_working
+1351,How can it be that my Card is not functioning anymore?,14,card_not_working
+1352,What's going on with my card? I've tried multiple times and it never goes through.,14,card_not_working
+1353,HOW LONG TO TAKE THE TIME TO SOLVE,14,card_not_working
+1354,What do I do if my card is not working?,14,card_not_working
+1355,What should I do if my physical card isn't working?,14,card_not_working
+1356,The card that I have isn't working. This is the physical card.,14,card_not_working
+1475,Has there been any activity on my card today?,41,lost_or_stolen_card
+1476,I lost my wallet and all my cards were in it.,41,lost_or_stolen_card
+1477,I'm panicking!  I lost my card!  Help!,41,lost_or_stolen_card
+1478,I need to report a stolen card,41,lost_or_stolen_card
+1479,How do I replace a stolen card?,41,lost_or_stolen_card
+1480,Can you provide information for freezing my card immediately?,41,lost_or_stolen_card
+1481,What's the phone number to freeze a card?,41,lost_or_stolen_card
+1482,I can't find my card! Can you help?,41,lost_or_stolen_card
+1483,"Hi, I am on vacation in Spain and someone stole my bag with my phone and wallet with cards and everything. Can you block it ASAP and then I want to order a new one also ASAP.",41,lost_or_stolen_card
+1484,Help! I lost my card!,41,lost_or_stolen_card
+1485,My card is missing.  Please help.,41,lost_or_stolen_card
+1486,I think that my card has been stolen!,41,lost_or_stolen_card
+1487,My card was stolen,41,lost_or_stolen_card
+1488,A fee shouldn't apply to me if my card was stolen.,41,lost_or_stolen_card
+1489,"My card has been stolen. I reported it with the police, but I need to report it with you as well.",41,lost_or_stolen_card
+1490,Can you tell me the status of my new card?,41,lost_or_stolen_card
+1491,My card has been stolen what do I do?,41,lost_or_stolen_card
+1492,"I can't find my card, it is lost.",41,lost_or_stolen_card
+1493,My card is lost!  Please help me!,41,lost_or_stolen_card
+1494,I believe that my card has been stolen!,41,lost_or_stolen_card
+1495,What should I do if I think my card was stolen?,41,lost_or_stolen_card
+1496,Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.,41,lost_or_stolen_card
+1497,"I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",41,lost_or_stolen_card
+1498,My bag got stolen with all my cards. Can you please cancel my card and send a new one?,41,lost_or_stolen_card
+1499,I think my card is stolen!,41,lost_or_stolen_card
+1500,"Help!  I fear that my card was stolen,",41,lost_or_stolen_card
+1501,Someone stole my card!,41,lost_or_stolen_card
+1502,Are you able to guide me to my card's location?,41,lost_or_stolen_card
+1503,How can I report that my card was stolen? I made a police report first.,41,lost_or_stolen_card
+1504,My card is missing!  Help!,41,lost_or_stolen_card
+1505,"My wallet was stolen, along with my cards. How do I put a freeze on my cards and order a new one?",41,lost_or_stolen_card
+1506,Could you please freeze my card immediately?,41,lost_or_stolen_card
+1507,"i need help, i lost my card",41,lost_or_stolen_card
+1508,What can I do if I lost my card?,41,lost_or_stolen_card
+1509,I think that the card is stolen.  What are my next steps?,41,lost_or_stolen_card
+1510,What do I do if my card is stolen?,41,lost_or_stolen_card
+1511,My card is stolen.  Help!,41,lost_or_stolen_card
+1512,I lost track of my card,41,lost_or_stolen_card
+1513,Report stolen card,41,lost_or_stolen_card
+1514,Help!  My card is stolen.,41,lost_or_stolen_card
+1515,"My card was lost on vacation, I don't know where it is. Can you help me take care of this immediately?",41,lost_or_stolen_card
+1516,I have lost my card! What is my next step?,41,lost_or_stolen_card
+1517,My card has been lost! help!,41,lost_or_stolen_card
+1518,What do I do if my card has been lost or stolen?,41,lost_or_stolen_card
+1519,Help Me!  I lost my card.  What should I do?,41,lost_or_stolen_card
+1520,Someone stole my wallet with my card in it while vacationing in Spain. I really need my card blocked and a new one ordered.,41,lost_or_stolen_card
+1521,Who can I speak with regarding a lost card?,41,lost_or_stolen_card
+1522,My card has gone missing.,41,lost_or_stolen_card
+1523,oh my god I lost my card! what should I do?,41,lost_or_stolen_card
+1524,I can't find my card!  What should I do?,41,lost_or_stolen_card
+1525,What is the first step that I should take after my card has been stolen?,41,lost_or_stolen_card
+1526,I seem to have lost my card.,41,lost_or_stolen_card
+1527,My card was stolen. What do I need to do?,41,lost_or_stolen_card
+1528,Someone took my card without permission,41,lost_or_stolen_card
+1529,I lost my card n need a new one.,41,lost_or_stolen_card
+1530,My card has been lost / stolen,41,lost_or_stolen_card
+1531,I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?,41,lost_or_stolen_card
+1532,Please help me.  My card is missing.,41,lost_or_stolen_card
+1533,"I lost my card, what do I do now?",41,lost_or_stolen_card
+1534,I need to order a new card as my other one was stolen.,41,lost_or_stolen_card
+1535,I think someone stole my card because I can't find it.,41,lost_or_stolen_card
+1536,What are the steps I need to do if I have a stolen card?,41,lost_or_stolen_card
+1537,I cant find my card.,41,lost_or_stolen_card
+1538,I think my card is lost.  What do I do?,41,lost_or_stolen_card
+1539,What should I do if my card is stolen?,41,lost_or_stolen_card
+1540,How do I deactivate a stolen card?,41,lost_or_stolen_card
+1541,"I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.",41,lost_or_stolen_card
+1542,Someone took my card without my permission.,41,lost_or_stolen_card
+1543,Need help with a stolen card.,41,lost_or_stolen_card
+1544,"help, lost my card",41,lost_or_stolen_card
+1545,What do I do if my card was stolen.,41,lost_or_stolen_card
+1546,I think my wallet fell out on the Tube today! I realized as soon as I got to my desk. How do I cut off the card?,41,lost_or_stolen_card
+1547,My card is missing.,41,lost_or_stolen_card
+1548,How do I report my card as lost or stolen?,41,lost_or_stolen_card
+1549,Is there any way for you to find my card?,41,lost_or_stolen_card
+1550,I've lost my card. What can I do about that?,41,lost_or_stolen_card
+1551,I left my card at a restaurant and now its missing.,41,lost_or_stolen_card
+1552,Can you help me retrieve my card?,41,lost_or_stolen_card
+1553,I lost my card. Can you help me?,41,lost_or_stolen_card
+1554,What should I do?  My card has been stolen!,41,lost_or_stolen_card
+1555,My card was stolen last night.,41,lost_or_stolen_card
+1556,Could you assist me in finding my lost card?,41,lost_or_stolen_card
+2511,There was a fee charged when I paid with my card.,15,card_payment_fee_charged
+2512,I received a fee I should not have.,15,card_payment_fee_charged
+2513,Why am I being a charged for using my card?,15,card_payment_fee_charged
+2514,Tell me why there is a fee for a card payment.,15,card_payment_fee_charged
+2515,I don't understand why I'm being charged for using my card.,15,card_payment_fee_charged
+2516,I paid with my card so so why was I charged a transaction fee?,15,card_payment_fee_charged
+2517,"I shouldn't have been charged but I see a fee, why?",15,card_payment_fee_charged
+2518,"i made a payment with my card and was charged a fee, why would you do that",15,card_payment_fee_charged
+2519,A fee came along with me paying with card,15,card_payment_fee_charged
+2520,I had to pay a fee when buying items with my card.,15,card_payment_fee_charged
+2521,Why is there a fee when I thought there would be no fees?,15,card_payment_fee_charged
+2522,Why are there fees for using a card?,15,card_payment_fee_charged
+2523,I had to pay money for paying with my card.,15,card_payment_fee_charged
+2524,"I'm going on holiday to France for 6 weeks with my family and the cat, Fluffy.  I just purchased €10,000 from a currency exchange to ensure we don't run short but there appears to be a fee.  What is this for?",15,card_payment_fee_charged
+2525,What are the reasons to be charged a fee on card payments?,15,card_payment_fee_charged
+2526,I paid with card and was charged a fee that shouldn't be there!,15,card_payment_fee_charged
+2527,Why was I charged an extra fee when paying with card?,15,card_payment_fee_charged
+2528,I noticed a new fee on my account. I didn't know there were fees for these payments. What is the policy?,15,card_payment_fee_charged
+2529,I don't understand why I was charged an additional fee for this service. Can you clarify?,15,card_payment_fee_charged
+2530,Why is there a fee for using my card?,15,card_payment_fee_charged
+2531,Why was my transaction charged an extra fee when paying with my card?,15,card_payment_fee_charged
+2532,"Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees.",15,card_payment_fee_charged
+2533,"On a card payment, why is there a fee?",15,card_payment_fee_charged
+2534,Why did I get charged a fee for my card payment?,15,card_payment_fee_charged
+2535,Why are you charging me fees for using my card?,15,card_payment_fee_charged
+2536,What is the extra fee that showed up on my card?,15,card_payment_fee_charged
+2537,Why was I charged a fee for using my card,15,card_payment_fee_charged
+2538,Let me know when I get charged extra for payments. I saw on the app a fee I wasn't forewarned about.,15,card_payment_fee_charged
+2539,I was charged a fee for using my card. Can I check that in any way? It seems like there are occasions that I am charge for fees. Can you elaborate this?,15,card_payment_fee_charged
+2540,I got charged a service fee on my account. Can it be waived since I didn't know about it before?,15,card_payment_fee_charged
+2541,I think a fee was applied for paying with a card.,15,card_payment_fee_charged
+2542,I'm being charged for using my card!,15,card_payment_fee_charged
+2543,I bought something with my card and I was charged a fee,15,card_payment_fee_charged
+2544,I received an extra charge for using the card. Why?,15,card_payment_fee_charged
+2545,Can you explain why my payment was charged a fee?,15,card_payment_fee_charged
+2546,Is there a fee for paying by card?,15,card_payment_fee_charged
+2547,Who charged me a fee for paying by card?,15,card_payment_fee_charged
+2548,I have a fee showing from last time I used my card.,15,card_payment_fee_charged
+2549,Why is this fee being charged to me after using my card?,15,card_payment_fee_charged
+2550,"Why wasn't it obvious that you charge for payments? If you put the fees in an easy to read format, this could have been avoided.",15,card_payment_fee_charged
+2551,Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!,15,card_payment_fee_charged
+2552,I payed with the card and there was an extra fee?,15,card_payment_fee_charged
+2553,Is it normal to be charged an extra fee when paying with my card?,15,card_payment_fee_charged
+2554,Why was there a fee for paying by card?,15,card_payment_fee_charged
+2555,How did the extra charge on my card come in effect?,15,card_payment_fee_charged
+2556,Please tell me why I was charged additionally when I used the card.,15,card_payment_fee_charged
+2557,I made a purchase with my card and I was charged a fee for using it,15,card_payment_fee_charged
+2558,I was made to pay a fee for making a transaction with card.,15,card_payment_fee_charged
+2559,"Why, when paying with the card, was I charged an extra fee?",15,card_payment_fee_charged
+2560,I have never been charged a card payment fee before. Why did this change?,15,card_payment_fee_charged
+2561,What can i pay with out  fees,15,card_payment_fee_charged
+2562,Why and I being charged this fee?,15,card_payment_fee_charged
+2563,Why was I charged a fee? I thought shopping was free?,15,card_payment_fee_charged
+2564,There was an extra charge when I used my card,15,card_payment_fee_charged
+2565,What is this fee for card payment?,15,card_payment_fee_charged
+2566,I saw a fee on my app from one of my payments and I wasn't sure where it came from. Is there a way you can tell me when there's an additional fee for my payments?,15,card_payment_fee_charged
+2567,Why was I charged for payments? You didn't warn me about additional fees.,15,card_payment_fee_charged
+2568,"i have used my card online before and wasn't charged, why am i charged now",15,card_payment_fee_charged
+2569,"I paid with my card and got charged an extra fee, what's up with that?",15,card_payment_fee_charged
+2570,I used my card and there was a fee,15,card_payment_fee_charged
+2571,"I am tired of getting charged fees, and I have no idea why, please let me know what/when you charge fees for.",15,card_payment_fee_charged
+2572,Why am I getting a fee on a card payment?,15,card_payment_fee_charged
+2573,"Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances.",15,card_payment_fee_charged
+2574,I noticed that i got charged extra for using the card.,15,card_payment_fee_charged
+2575,I paid with a card and there is an extra charge. Why?,15,card_payment_fee_charged
+2576,Can you explain why I am now getting charged a fee for using my card?,15,card_payment_fee_charged
+2577,"There are multiple instances where you added a fee to the payment, as well as some where you didn't. Do you have an outline of when a fee will be added?",15,card_payment_fee_charged
+2578,I have been charged a fee that I didn't know about. Why have you charged me extra for card payments?,15,card_payment_fee_charged
+2579,I got a fee when paying with my card,15,card_payment_fee_charged
+2580,why is there a fee for a payment on my card?,15,card_payment_fee_charged
+2581,"When using my card I was charged a fee for doing so, why?",15,card_payment_fee_charged
+2582,What was I charged a fee for card payment?,15,card_payment_fee_charged
+2583,What is this extra fee?,15,card_payment_fee_charged
+2584,Why did I have to pay extra because I paid with my card?,15,card_payment_fee_charged
+2585,I want to see what this fee is on my card payment.,15,card_payment_fee_charged
+2586,Let me know when you charge extra for payments please. I just checked the app earlier when I saw that there was an additional fee on one of the payments that I wasn't warned about before.,15,card_payment_fee_charged
+2587,how do i avoid charges in the future,15,card_payment_fee_charged
+2588,An extra fee has been added to my card payment is this correct?,15,card_payment_fee_charged
+2589,Why was there an extra charge because I used my card to pay?,15,card_payment_fee_charged
+2590,Why do I have to pay extra for using my card?,15,card_payment_fee_charged
+2591,"Unbeknownst to me, there was an additional charge on my prior transaction. A notification of sorts should be required and explained before future payments are made.",15,card_payment_fee_charged
+2592,I paid with my card and was charged extra,15,card_payment_fee_charged
+2593,My account was charged a fee. When did you start charging extra for card payments?,15,card_payment_fee_charged
+2594,Explain the extra fee on my card when paying.,15,card_payment_fee_charged
+2595,I was charged and shouldn't have been charged when using my card!,15,card_payment_fee_charged
+2596,I have a fee and I don't know why,15,card_payment_fee_charged
+2597,I was mistakenly charged a fee for using my card.,15,card_payment_fee_charged
+2598,tell me why I was charged more with my card?,15,card_payment_fee_charged
+2599,"My card is showing a fee from when I used it, but I thought this card was supposed to be fee free?",15,card_payment_fee_charged
+2600,There was an extra fee when I paid with the card.,15,card_payment_fee_charged
+2601,I think I was wrongly charged in a recent transaction when I used my card.,15,card_payment_fee_charged
+2602,"I have been charged a fee, I didn't know about this fee before! When do you charge extra for card payments?",15,card_payment_fee_charged
+2603,I was spending cash with my card and got a fee.,15,card_payment_fee_charged
+2604,What are these fees i am paying?,15,card_payment_fee_charged
+2605,Why have I been charged a fee for card payment?,15,card_payment_fee_charged
+2606,How come I was charged an extra fee when paying with the card?,15,card_payment_fee_charged
+2607,Why is there a charged fee for debit or credit card payment?,15,card_payment_fee_charged
+2608,Am I getting charged for making a payment?,15,card_payment_fee_charged
+2609,Why do some of my payments have fees?  I don't understand.,15,card_payment_fee_charged
+2610,Why did I have to pay an additional amount when using my card to pay?,15,card_payment_fee_charged
+2611,I paid with my card and I was charged a fee,15,card_payment_fee_charged
+2612,There was a charge applied when I used my card.,15,card_payment_fee_charged
+2613,I was charged a hidden fee when I paid with card.,15,card_payment_fee_charged
+2614,Why does it cost more to pay with my card?,15,card_payment_fee_charged
+2615,Is there a place to check for fee for payments? I feel like I'm getting charged too much at times.,15,card_payment_fee_charged
+2616,I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before.,15,card_payment_fee_charged
+2617,Why was I charged extra when paying with card?,15,card_payment_fee_charged
+2618,Why am I charged a fee when using my debit or credit card?,15,card_payment_fee_charged
+2619,"I am getting charged fees on some payments.  Please help me understand, where are these fees disclosed?",15,card_payment_fee_charged
+2620,Why was the price higher when I paid with my card?,15,card_payment_fee_charged
+2621,I just made an order and noticed an extra fee. Why have you charged me this without informing me?,15,card_payment_fee_charged
+2622,I didn't know I was going to get charged to use my card.,15,card_payment_fee_charged
+2623,I have been charged an extra fee when buying from your store. Why is this?,15,card_payment_fee_charged
+2624,What is this extra fee that I got when I used my card to pay?,15,card_payment_fee_charged
+2625,Was I charged extra for using my card?,15,card_payment_fee_charged
+2626,Let me know when applying extra charges for payments. I just checked the app and saw a fee that I wasn't warned about.,15,card_payment_fee_charged
+2627,Why was I charged an additional fee when paying with card?,15,card_payment_fee_charged
+2628,Why did I get charged extra?,15,card_payment_fee_charged
+2629,I paid with card and I was charged a fee,15,card_payment_fee_charged
+2630,I made a purchase but never expected to see a fee charged for the transaction.,15,card_payment_fee_charged
+2631,I was charged for using my card?,15,card_payment_fee_charged
+2632,My card was charged more than expected.,15,card_payment_fee_charged
+2633,Where can I check to see if there will be a fee added to my payment? Are there specific instances that will result in a fee added?,15,card_payment_fee_charged
+2634,Why have i been charged a fee for using my card?,15,card_payment_fee_charged
+2635,Why was I charged extra using my card?,15,card_payment_fee_charged
+2636,How was I charged extra when I used my card to pay?,15,card_payment_fee_charged
+2637,When do i get charged a fee for using the card?,15,card_payment_fee_charged
+2638,"I see I was charged extra when I used the card.  I am not sure why, please tell me why.",15,card_payment_fee_charged
+2639,Why was I charged a fee for my card payment?,15,card_payment_fee_charged
+2640,Why was I charged an extra fee when using the card?,15,card_payment_fee_charged
+2641,Let me know when you charge for payments. I just checked the app and saw a fee that I wasn't warned about.,15,card_payment_fee_charged
+2642,What is the charge for paying with my card?,15,card_payment_fee_charged
+2643,I paid with my card and ended up being charged a fee.,15,card_payment_fee_charged
+2644,Why is there a fee on a card payment?,15,card_payment_fee_charged
+2645,I was unaware of the additional charge that was added onto my previous payment. A notification of extra charges would be appreciated in the future.,15,card_payment_fee_charged
+2646,I don't think I should have been charged a fee to use my card.,15,card_payment_fee_charged
+2647,A fee that shouldn't be there is there after using my card!,15,card_payment_fee_charged
+2648,"How do I see what fees I am supposed to be charged on my account? I've noticed fees on some transactions, but not on others. This is very confusing and I cannot find a pattern to what I am being charged?",15,card_payment_fee_charged
+2649,Why am I getting charged more for using my card?,15,card_payment_fee_charged
+2650,I see a fee that I think was charged because I paid by card.,15,card_payment_fee_charged
+2651,What are the fees imposed when I make a transaction?,15,card_payment_fee_charged
+2652,What was the extra charge for using my card?,15,card_payment_fee_charged
+2653,Why was a fee added to my bill when I used my card?,15,card_payment_fee_charged
+2654,Please tell my why I was charged a fee for using my card?,15,card_payment_fee_charged
+2655,How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.,15,card_payment_fee_charged
+2656,I was charged a fee when buying stuff with my card.,15,card_payment_fee_charged
+2657,I was charged an additional amount of money for making a purchase with my card,15,card_payment_fee_charged
+2658,What is the fee charged for using my card?,15,card_payment_fee_charged
+2659,I just saw a fee on my account. When do these get charged?,15,card_payment_fee_charged
+2660,Is it normal to get charged extra when i use my card?,15,card_payment_fee_charged
+2661,This fee shouldn't be there after I paid with a card.,15,card_payment_fee_charged
+2662,Why am I charged an extra fee on my card?,15,card_payment_fee_charged
+2663,Why did I get charged more for using my card?,15,card_payment_fee_charged
+2664,I recently bought an item using my card and I was charged an extra fee why is this?,15,card_payment_fee_charged
+2665,I am angry that I got charged for using my card.,15,card_payment_fee_charged
+2666,I wanted to know why i got an additional fee when i use my card.,15,card_payment_fee_charged
+2667,"Is there a fee for making a payment? If so, let me know why.",15,card_payment_fee_charged
+2668,Please tell me why I would have to pay a fee for a recent payment. Thanks.,15,card_payment_fee_charged
+2669,Why was I charged a fee for debit or credit card payment?,15,card_payment_fee_charged
+2670,Why was an extra charge added when I used my card?,15,card_payment_fee_charged
+2671,Why have I been charged a small fee to use my card?,15,card_payment_fee_charged
+2672,I was charged an extra fee for a card payment. I was unaware of these fees beforehand.,15,card_payment_fee_charged
+2673,Why is there a fee associated with card use?,15,card_payment_fee_charged
+2674,What is this fee showing up in my account for?,15,card_payment_fee_charged
+2675,I got charged for with a fee for paying with my card.,15,card_payment_fee_charged
+2676,Why am I being charged a fee on a card payment?,15,card_payment_fee_charged
+2677,Is there a  way to  get around fees,15,card_payment_fee_charged
+2678,I noticed an extra fee when I paid with my card.,15,card_payment_fee_charged
+2679,You advertise no fee when paying with a card then my statement shows a fee.,15,card_payment_fee_charged
+2680,"There was an extra fee when I paid with my card, why was i charged this extra fee?",15,card_payment_fee_charged
+2681,Why was there an additional fee on the payment I just made? I don't usually have additional fees applied to my payments.,15,card_payment_fee_charged
+2682,what is this extra charge with my purchase?,15,card_payment_fee_charged
+2683,Hello! I randomly got charged an extra fee today as i was shopping online and i have no idea why! Are there extra fees for card payments? Or am i missing something here?,15,card_payment_fee_charged
+2684,Please explain the extra fee when I paid with the card.,15,card_payment_fee_charged
+2685,When do you charge fees on accounts? I just saw a charge on my statement.,15,card_payment_fee_charged
+2686,After I used my card I saw I was charged a fee for using it,15,card_payment_fee_charged
+2687,Is there an allowance on cards?,15,card_payment_fee_charged
+2688,Why am I being charged a hidden fee?,15,card_payment_fee_charged
+2689,Can you explain why I was charged extra when I used the card?,15,card_payment_fee_charged
+2690,Why did I get charged a fee on my card?,15,card_payment_fee_charged
+2691,Do you have charges now when you pay with a card?,15,card_payment_fee_charged
+2692,What is the extra fee that was added when I used the card?,15,card_payment_fee_charged
+2693,Why am I charged a fee for using my card on some purchases?,15,card_payment_fee_charged
+2694,Why am I being charged a fee for using my card? If there is some print out of places that charge me can you please send me that?,15,card_payment_fee_charged
+2695,How can I tell if there will be a fee added to my payment or not?,15,card_payment_fee_charged
+2696,You promised no fees but now I've got one. What the hell!?,15,card_payment_fee_charged
+2697,How do I know which payments I make will have additional fees? Where can I find this information online?,15,card_payment_fee_charged
+3482,There's a payment with my card that I didn't perform. I don't know that name shown.,16,card_payment_not_recognised
+3483,My statement indicates I made a payment to an unfamiliar merchant.,16,card_payment_not_recognised
+3484,"There's a payment with my card that I definitely didn't do myself, never seen that name before.",16,card_payment_not_recognised
+3485,Help! In the app there is a payment that I don't remember.,16,card_payment_not_recognised
+3486,I don't understand where this charge came from.,16,card_payment_not_recognised
+3487,there is a charge i dont recognize,16,card_payment_not_recognised
+3488,"I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card.",16,card_payment_not_recognised
+3489,Someone might have access to my card!  There are some strange payments showing up on my account.  What do I do?,16,card_payment_not_recognised
+3490,"There are a couple payments with my card shown in the app that i really didn't make myself. What's going on with this, does someone has access to my card?!",16,card_payment_not_recognised
+3491,I'm using the app and I noticed a payment that I didn't make.,16,card_payment_not_recognised
+3492,"A strange card payment, I do not recognize it.",16,card_payment_not_recognised
+3493,They is a payment I don't recognize on my statement.,16,card_payment_not_recognised
+3494,I have an unusual payment in my statement,16,card_payment_not_recognised
+3495,I do not recognize the card payment.,16,card_payment_not_recognised
+3496,Hi something is going on with the app.  I see some payments I didn't make?,16,card_payment_not_recognised
+3497,"If I see a payment in the app that I don't recognize, what should I do?",16,card_payment_not_recognised
+3498,I do not recognise the card payment.,16,card_payment_not_recognised
+3499,"There are a couple payments with my card shown in the app that i really didn't make myself. What's happenning with this, does someone has access to my card?!",16,card_payment_not_recognised
+3500,Just today there was a purchase on my card that wasn't done by me. Can this be reversed and my card be frozen? I can't have this continue!,16,card_payment_not_recognised
+3501,I need some help now please! There are some transactions on my account that I do not remember purchasing. Can they be reversed? Can you please cancel or freeze my card so I don't keep getting charged?!,16,card_payment_not_recognised
+3502,my statement contains an unknown payment,16,card_payment_not_recognised
+3503,I don't recognize what this payment on my statement would be for.,16,card_payment_not_recognised
+3504,There has been a payment  in the App that has not be done by me.,16,card_payment_not_recognised
+3505,I don't recognize a purchase that was made with my card.,16,card_payment_not_recognised
+3506,I'm checking the app and I see a payment that's not mine.,16,card_payment_not_recognised
+3507,I have a charge for something I didn't buy.,16,card_payment_not_recognised
+3508,A payment on my statement is wrong.,16,card_payment_not_recognised
+3509,There's a payment that isn't mine on my app,16,card_payment_not_recognised
+3510,What is this strange payment in my account?,16,card_payment_not_recognised
+3511,I'm not sure where this charge came from.,16,card_payment_not_recognised
+3512,I looked at my statement and found a payment I and found a mistake.,16,card_payment_not_recognised
+3513,A payment in my account was made by someone I don't know,16,card_payment_not_recognised
+3514,"I don't recognize this payment on my app, I am sure I didn't spend any money there.",16,card_payment_not_recognised
+3515,There are a couple of payments with my card shown in the app that in reality I didn't make. Maybe someone has access to my card?Can you check whats the issue ?,16,card_payment_not_recognised
+3516,There is payment showing that I didn't do.,16,card_payment_not_recognised
+3517,Payment I didn't do.,16,card_payment_not_recognised
+3518,Why is there a random payment in my statement?,16,card_payment_not_recognised
+3519,"Hi, there is a suspicious payment from my card. I definitely do not know who this is or who could have made this payment.",16,card_payment_not_recognised
+3520,A payment I didn't do shows in my app,16,card_payment_not_recognised
+3521,There is  a charge I don't recognize.,16,card_payment_not_recognised
+3522,I'm noticing a payment/purchase at a company that I don't recognise.,16,card_payment_not_recognised
+3523,There seems to be a couple of payments listed in the app I know weren't made by me. Is there a possibility someone has access to my card? Can you find out what's going on?,16,card_payment_not_recognised
+3524,I need to freeze my card as soon as possible. I just checked my account and saw that there have been several payments that I don't recognize over the course of a few days. Can we investigate and get my money back?,16,card_payment_not_recognised
+3525,There are some charges that I don't recognize.  It happened days ago.  Can I get these charges back?  Should I cancel my card?,16,card_payment_not_recognised
+3526,Please help.  There is a payment in the app that isn't mine.,16,card_payment_not_recognised
+3527,I am seeing in the App a payment that its not mine,16,card_payment_not_recognised
+3528,There's a payment in the app I don't recognize.,16,card_payment_not_recognised
+3529,"Hello, i just checked my statement and there seems to be a payment from my card that I have never seen before.",16,card_payment_not_recognised
+3530,There is a card payment I'm not familiar with.,16,card_payment_not_recognised
+3531,There is a strange payment on my card and I don't know what to do.,16,card_payment_not_recognised
+3532,Is it possible someone has access to my card? I noticed that there are a couple of payments in the app I'm sure I did not make. Can you find out what's going on here?,16,card_payment_not_recognised
+3533,There are some card payments that I haven't done myself. What is going on with my card and does somebody else have access to my card?,16,card_payment_not_recognised
+3534,I have a payment in my statement that is off,16,card_payment_not_recognised
+3535,I did not do this payment,16,card_payment_not_recognised
+3536,I've never been to that store.  That's a fraudulent charge.,16,card_payment_not_recognised
+3537,"There are charges on my card from the past few day I am pretty sure I didnt make, can you please freeze it for me? How do I get my money returned since it wasnt me?",16,card_payment_not_recognised
+3538,I have a payment I didnt make on my account,16,card_payment_not_recognised
+3539,There were a couple of payments that I have noticed on my account with my card that I didn't make. Is it possible that somebody else has my card information?,16,card_payment_not_recognised
+3540,There is an unauthorized payment in my statement.,16,card_payment_not_recognised
+3541,"There are a couple payments with my card shown in the app that i really make myself. What's going on with this, maybe someone has access to my card?!",16,card_payment_not_recognised
+3542,I don't recognize this payment at all!  Help!,16,card_payment_not_recognised
+3543,There is a record of payment I never submitted on the app.,16,card_payment_not_recognised
+3544,I just looked over my statement and I don't recognize the name of a card payment.,16,card_payment_not_recognised
+3545,I didn't make a payment at this business.,16,card_payment_not_recognised
+3546,There is a payment on my card that I do not recognize.  I've never seen the name on the transaction before.,16,card_payment_not_recognised
+3547,Why do I have a strange payment on my statement?,16,card_payment_not_recognised
+3548,i didnt do this charge,16,card_payment_not_recognised
+3549,I did not charge my account for that transaction.  That's an error.,16,card_payment_not_recognised
+3550,There is a payment that is not mine in the App.,16,card_payment_not_recognised
+3551,I see an unfamiliar payment on my statement.,16,card_payment_not_recognised
+3552,Why is this payment on my app,16,card_payment_not_recognised
+3553,There is a payment I don't recognize,16,card_payment_not_recognised
+3554,This card payment isn't is recognition.,16,card_payment_not_recognised
+3555,why do I have an unknown payment?,16,card_payment_not_recognised
+3556,Payment I did not make.,16,card_payment_not_recognised
+3557,"I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?",16,card_payment_not_recognised
+3558,There are a couple of payments with my card shown in the app that I really didn't make myself. What's going on with this?,16,card_payment_not_recognised
+3559,Why is there a payment I didn't do in my app?,16,card_payment_not_recognised
+3560,I have a payment that I didn't make.,16,card_payment_not_recognised
+3561,The app is showing a payment I never made.,16,card_payment_not_recognised
+3562,I checked the app and there is a payment that I don't recognize.,16,card_payment_not_recognised
+3563,How do I find out how or where this transaction on my account came from?,16,card_payment_not_recognised
+3564,I need to figure out who has access to my card there are some payments I didn't make that are showing on the app.  Could you please help?,16,card_payment_not_recognised
+3565,There is a strange payment on my card.,16,card_payment_not_recognised
+3566,I've got charges on my account I did not authorize. Can I get this money back from the last couple of days that it's been coming out? I also need to freeze my card.,16,card_payment_not_recognised
+3567,There is a payment made with my card that I don't recognize at all.,16,card_payment_not_recognised
+3568,I saw a payment come out of my account for a merchant I don't remember.,16,card_payment_not_recognised
+3569,There's a payment with my card that I definitely didn't create. I don't know anyone by that name.,16,card_payment_not_recognised
+3570,The App shows a fraudulent payment made on my account.,16,card_payment_not_recognised
+3571,There's a payment in my history I don't recognize,16,card_payment_not_recognised
+3572,There is a payment on my card that I do not recognize.,16,card_payment_not_recognised
+3573,My app shows a payment I didn't make,16,card_payment_not_recognised
+3574,I don't know if I made this payment on my card.,16,card_payment_not_recognised
+3575,After looking at the app I noticed a couple of payments I know I did not make. Is it possible someone has accessed my card? What is actually going on?,16,card_payment_not_recognised
+3576,I do not recongize a payment in my account.,16,card_payment_not_recognised
+3577,A payment shows up on the app that I never made.,16,card_payment_not_recognised
+3578,I swear that there are 2 payments on the app that I didn't make.  Could my card me stolen?  Please advise what I should do.,16,card_payment_not_recognised
+3579,Is there any way to know how the transaction got on my account?,16,card_payment_not_recognised
+3580,I did not make this payment that I see in the App.,16,card_payment_not_recognised
+3581,I have a card payment I didn't make,16,card_payment_not_recognised
+3582,i disagree with a charge,16,card_payment_not_recognised
+3583,I didn't make this payment!,16,card_payment_not_recognised
+3584,There is a payment in the app I did not make,16,card_payment_not_recognised
+3585,There is a vendor name I don't recognize on a payment from my account. I don't think I made this payment.,16,card_payment_not_recognised
+3586,I don't think I made this payment that is showing up,16,card_payment_not_recognised
+3587,I think there's a purchase at a store that I didn't go to.,16,card_payment_not_recognised
+3588,Have a payment that I haven't done.,16,card_payment_not_recognised
+3589,There was a purchase on my card recently to a name that I don't recognize at all. What can be done about this? I need my money back.,16,card_payment_not_recognised
+3590,"One of my card payments, I don't recognise the name of the merchant.",16,card_payment_not_recognised
+3591,"Hello, I noticed there is a payment from my card to a business that I am not familiar with. I definitely did not make this payment.",16,card_payment_not_recognised
+3592,I do not recognise this card payment.,16,card_payment_not_recognised
+3593,I have a card payment that I don't recognize. What should I do?,16,card_payment_not_recognised
+3594,There are a couple payments with my card shown that I'm not responsible for. What is going on? Maybe someone has access to my account.,16,card_payment_not_recognised
+3595,There is a payment with my card which i definitely did not do.,16,card_payment_not_recognised
+3596,My app is displaying a payment I didn't make,16,card_payment_not_recognised
+3597,I just checked my account on the App and there is a payment on there that I did not make.,16,card_payment_not_recognised
+3598,Could you please put a freeze on my card?  There are some payments on it that I don't know where they came from.,16,card_payment_not_recognised
+3599,In the App I see a payment that is not mine.,16,card_payment_not_recognised
+3600,There is a payment with my card which i definitely did not make by me .Never seen that it before.,16,card_payment_not_recognised
+3601,I didn't make this payment and it's on my app,16,card_payment_not_recognised
+3602,Why is there an uknown charge showing on my account?,16,card_payment_not_recognised
+3603,I think that there is a payment on my card that I did not authorize.  I don't recognize the name attached to the transaction.,16,card_payment_not_recognised
+3604,I don't think I made this transaction on my statement,16,card_payment_not_recognised
+3605,There is a weird payment in my statement.,16,card_payment_not_recognised
+3606,A random charge got added to my card,16,card_payment_not_recognised
+3607,I need to freeze my card. There are charges on there that i did not authorize. They've been coming out for a couple of days. Can i get this money back?,16,card_payment_not_recognised
+3608,I see a strange payment in my account.,16,card_payment_not_recognised
+3609,where is my unknown payment from?,16,card_payment_not_recognised
+3610,I have just read my statement and there is a payment I don't recognise.,16,card_payment_not_recognised
+3611,There's a card payment I didn't make,16,card_payment_not_recognised
+3612,There are a couple payments with my card displayed in the app which I didn't make. What is happening? Maybe someone has access to my card.,16,card_payment_not_recognised
+3613,I'm worried that my card has been compromised because I see a payment that I didn't make.,16,card_payment_not_recognised
+3614,I didn't do a payment and I have it now.,16,card_payment_not_recognised
+3615,how do i dispute a payment I didnt make,16,card_payment_not_recognised
+3616,There is a payment in the app that I did not approve,16,card_payment_not_recognised
+3617,I don't recognize a charge on my statement.,16,card_payment_not_recognised
+3618,There is a strange card payment I don't recognise.,16,card_payment_not_recognised
+3619,I believe there is a mistake because a payment I didn't make shows in my app.,16,card_payment_not_recognised
+3620,There are a couple payments with my card in the app I see that I didn't create. What is happening? Maybe someone gained access to my account.,16,card_payment_not_recognised
+3621,I'm not recognizing the card payment.,16,card_payment_not_recognised
+3622,There's a card payment with a name I don't recognize,16,card_payment_not_recognised
+3623,There is a payment done with my card which i definitely did not do.Never seen that name before.,16,card_payment_not_recognised
+3624,Why is there a payment I didn't do?,16,card_payment_not_recognised
+3625,Someone else accessed my account and made a payment.,16,card_payment_not_recognised
+3626,I have an odd payment in my statement,16,card_payment_not_recognised
+3627,There is a fraudulent payment!,16,card_payment_not_recognised
+3628,Why is there an unknown card payment?,16,card_payment_not_recognised
+3629,I don't recognize this payment,16,card_payment_not_recognised
+3630,I need to know where this charge is coming from?,16,card_payment_not_recognised
+3631,I see a payment on my statement for  a place I didn't make a purchase at.,16,card_payment_not_recognised
+3632,There is an odd payment in my statement,16,card_payment_not_recognised
+3633,There are a few payments in the app that I didn't make! Does someone else have my card?  What should I do?,16,card_payment_not_recognised
+3634,I need help with some transactions in my account that I dont recognize or remember purchasing. Im not sure if the name is just different or what. Should my card be put on hold while the issue gets figured out to be safe or is it ok?,16,card_payment_not_recognised
+3635,I have a confusing payment appear on my statement and I don't recognise it!,16,card_payment_not_recognised
+3636,My statement has a payment that I do not recall making,16,card_payment_not_recognised
+3637,I think my card is being used by someone else to make purchases that I didn't authorize! I checked my account and see that there have been quite a few purchases over the last two days that I have no idea where they came from. We need to freeze my card now! And I need to find a way to get my money back.,16,card_payment_not_recognised
+3638,"What is this card payment, I do not recognize it.",16,card_payment_not_recognised
+3639,I didn't make a payment that shows in my app.,16,card_payment_not_recognised
+3640,What do I do if I see a transaction on my card that I don't recall making?,16,card_payment_not_recognised
+3641,There's a payment in the app that I didn't authorize.,16,card_payment_not_recognised
+3642,I have a charge I did not make.,16,card_payment_not_recognised
+3643,on my statement there is a payment that I don't recognise,16,card_payment_not_recognised
+3644,I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?,16,card_payment_not_recognised
+3645,It is listed in my app that I made a payment which I did not actually make,16,card_payment_not_recognised
+3646,i dont recognize a charge on my card,16,card_payment_not_recognised
+3647,There are a couple of payments with my card shown in the app that I really didn't make myself. Why is it happened?,16,card_payment_not_recognised
+3648,A payment that I didn't make appears in my app.,16,card_payment_not_recognised
+3649,There is a card payment that I'm not recognizing.,16,card_payment_not_recognised
+5092,What does it mean when a payment is pending?,45,pending_card_payment
+5093,Could you please tell me why my purchases from this morning say payment is pending?,45,pending_card_payment
+5094,The purchase I made is still pending.,45,pending_card_payment
+5095,Is there a problem with the payment that I see is still pending?,45,pending_card_payment
+5096,There is a payment that I made that hasn't gone through yet.,45,pending_card_payment
+5097,How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move,45,pending_card_payment
+5098,Why does my payment appear as pending?,45,pending_card_payment
+5099,How long does a payment usually show as pending? Is it normal that mine is still pending?,45,pending_card_payment
+5100,Why is my payment in pending status?,45,pending_card_payment
+5101,I have a card payment which shows as pending,45,pending_card_payment
+5102,I made a payment with my card and it hasn't changed. How long do you think this will take?,45,pending_card_payment
+5103,Why is the payment showing as pending from things I bought this morning?,45,pending_card_payment
+5104,I made a card payment which is showing me pending.,45,pending_card_payment
+5105,Why are my payments not working and show pending?,45,pending_card_payment
+5106,"I put in a payment a while ago and it has still not cleared and is showing up as ""pending"", how long does it take to clear?",45,pending_card_payment
+5107,Why are the things I bought earlier today still showing as pending?,45,pending_card_payment
+5108,Card payment still pending.,45,pending_card_payment
+5109,"My card payment is just showing up as pending since forever, what's going on with that, it should be going through at some point?",45,pending_card_payment
+5110,I have a payment that has not gone through yet,45,pending_card_payment
+5111,"I initiated a payment a while ago and it is still showing as ""pending"", how long will it take to clear?",45,pending_card_payment
+5112,Why is my purchase showing as pending?,45,pending_card_payment
+5113,How long will it take for my payment to go through?,45,pending_card_payment
+5114,After making a payment with my card it doesn't seem to have worked. It's just showing to be pending. When will this actually be going through?,45,pending_card_payment
+5115,"It says ""pending payment?"" Why is it saying this?",45,pending_card_payment
+5116,Is there a reason my payments are pending?,45,pending_card_payment
+5117,Why is my card payment still a pending transaction?,45,pending_card_payment
+5118,"Card payment is still pending, why is that the case?",45,pending_card_payment
+5119,I have been waiting for my card payment to be moved from pending status for an unusually long time.  What is going on here and do you have an idea of when I can expect it to go through?,45,pending_card_payment
+5120,How come my card payment is still pending?,45,pending_card_payment
+5121,I notice there's a pending payment on my card.,45,pending_card_payment
+5122,How is my card payment still pending?,45,pending_card_payment
+5123,Why is my card payment still pending?,45,pending_card_payment
+5124,What does pending payment mean?,45,pending_card_payment
+5125,Why is my payment still pending?,45,pending_card_payment
+5126,What does it mean when it says that I have a payment that is pending?,45,pending_card_payment
+5127,My card payment is showing pending however this transaction was a couple of days ago. Is there a reason why it it still pending?,45,pending_card_payment
+5128,A card payment on my account is shown as pending.,45,pending_card_payment
+5129,Why is their a charge pending on my card still?,45,pending_card_payment
+5130,My card payment says pending and it hasn't changed,45,pending_card_payment
+5131,Card payment is showing as pending,45,pending_card_payment
+5132,What is the longest that a payment will show pending?  There is one showing that has been sitting there a few days.,45,pending_card_payment
+5133,I tried to pay through my account but the payment is not going through. What's going on?,45,pending_card_payment
+5134,Why is the payment on my card still pending?,45,pending_card_payment
+5135,What's taking so long for this payment to go through?,45,pending_card_payment
+5136,Why haven't I gotten my payment yet?,45,pending_card_payment
+5137,It looks like a payment I've made hasn't made it through yet.,45,pending_card_payment
+5138,My card payment has had the status of pending forever. What is the issue? It should have gone through at some point.,45,pending_card_payment
+5139,A payment is pending,45,pending_card_payment
+5140,Why hasn't my card payment cleared yet?,45,pending_card_payment
+5141,I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?,45,pending_card_payment
+5142,My payment is taking a long time to go through.,45,pending_card_payment
+5143,What does it mean if my payment is pending?,45,pending_card_payment
+5144,When will my payment go through?,45,pending_card_payment
+5145,My card payment still pending,45,pending_card_payment
+5146,How long does a payment show as pending before i should worry about it?,45,pending_card_payment
+5147,Why is my card payment pending?,45,pending_card_payment
+5148,I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.,45,pending_card_payment
+5149,"Hi, status of one of my card payment is still pending from a while. Please let e know how much time it will take to complete.",45,pending_card_payment
+5150,"After I make a payment, how long will it be before it transitions from ""pending"" to complete?",45,pending_card_payment
+5151,"My card payment is showing up as pending for a very long time, what's going on with that, it should be going through at some point?",45,pending_card_payment
+5152,My purchases from this morning are showing up as payment pending. Can you tell me why?,45,pending_card_payment
+5153,There is a payment that has not processed.,45,pending_card_payment
+5154,I'm still waiting on a payment,45,pending_card_payment
+5155,I need to find out why my pending payment hasn't gone through.,45,pending_card_payment
+5156,I am waiting for a payment to be processed,45,pending_card_payment
+5157,I don't understand why my card payment is pending.  It has been pending for too long.  Why is this and when might it go through?,45,pending_card_payment
+5158,"I did a payment with my card but seem that didn't work, it's still listed as pending since a while ago. When does this actually go through?",45,pending_card_payment
+5159,I need to know when a payment will actually go through. I completed a payment using my card but it is just showing as pending at this point and it has been a while ago.,45,pending_card_payment
+5160,When will the transaction go through?,45,pending_card_payment
+5161,My card payment has been stuck on pending. What is the problem? It should have gone through by now.,45,pending_card_payment
+5162,Why is the purchase I made this morning still pending?,45,pending_card_payment
+5163,A transaction on my card shows as pending.,45,pending_card_payment
+5164,I have a pending payment on my card.  Why?,45,pending_card_payment
+5165,I have a card payment that has been pending for some time and would like to know when it is going to go through.,45,pending_card_payment
+5166,"I made a payment a while ago and it is still showing as ""pending"" in the account. How long will this payment take to complete?",45,pending_card_payment
+5167,What does a 'pending payment' mean?,45,pending_card_payment
+5168,"Hello, I made a payment with my card and it's not working. It's been a while and still says its pending. Can you tell when this will go through?",45,pending_card_payment
+5169,"Hi,  One of payment is still coming as pending for which i have already paid by card. I guess it did not processed, could you please check and update me.",45,pending_card_payment
+5170,My purchase from this morning still is pending.,45,pending_card_payment
+5171,Why is my card payment still listed as pending?,45,pending_card_payment
+5172,One of my card payments looks like it's stuck but I have made the payment days ago. How long until the payment will be applied to my account?,45,pending_card_payment
+5173,I don't know what pending transaction means.,45,pending_card_payment
+5174,"My card payment is just showing up as pending since forever, what's going on with that, when should it be going through?",45,pending_card_payment
+5175,It says pending status for my payment. Why?,45,pending_card_payment
+5176,pending transaction?,45,pending_card_payment
+5177,I noticed that there's a payment on my card that's pending.,45,pending_card_payment
+5178,When is a payment I made with my card going to clear>,45,pending_card_payment
+5179,My card payment has been pending for a long time now. Why is it taking so long to take. It should have already made it through.,45,pending_card_payment
+5180,What does it mean if it says that my payment is pending?,45,pending_card_payment
+5181,Why are my purchases from this morning still pending?,45,pending_card_payment
+5182,"I was wondering why my payment hasn't gone through yet, its been a while.",45,pending_card_payment
+5183,My card payment has been on pending forever. What is the problem? It should have gone through at some time by now.,45,pending_card_payment
+5184,I did a card payment but its status is still coming as pending. Please check and inform when it would complete.,45,pending_card_payment
+5185,I have made a card payment but it did not completed still showing as pending. Please tell me when it will be completed.,45,pending_card_payment
+5186,Why hasn't my payment gone through?,45,pending_card_payment
+5187,Why is my card payment still pending? It should have gone through already.,45,pending_card_payment
+5188,"I made a purchase this morning, and it is showing as pending.",45,pending_card_payment
+5189,There is a single payment on my card which shows as pending.,45,pending_card_payment
+5190,How long does it actually take my card payment to make it to the account? I've made a payment a couple of days ago but it hasn't moved since.,45,pending_card_payment
+5191,How long does it take for my payment to process?,45,pending_card_payment
+5192,Why would my payment for my card show as pending?,45,pending_card_payment
+5193,Why aren't my payment funds available to me?,45,pending_card_payment
+5194,I got some items this morning but the payment says pending,45,pending_card_payment
+5195,Why is the payment I made still pending?,45,pending_card_payment
+5196,Is there a problem that makes my payments show pending?,45,pending_card_payment
+5197,I made a purchase earlier today but it is still listed as pending- when will it go through?,45,pending_card_payment
+5198,Why didn't my payment process,45,pending_card_payment
+5199,I have a payment that hasn't went through yet.,45,pending_card_payment
+5200,I made a payment but it's still pending,45,pending_card_payment
+5201,How long does it take for a new purchase to stop being considered pending?,45,pending_card_payment
+5202,I was wondering how long does it take for a payment to go thru? It seems my last payment is stuck and hasn't moved.,45,pending_card_payment
+5203,What is the cause of the delay in applying my card payment to my account?,45,pending_card_payment
+5204,Why would my payment still show as pending?,45,pending_card_payment
+5205,I have a payment which has not been approved.,45,pending_card_payment
+5206,What does it mean when it says I have a payment pending?,45,pending_card_payment
+5207,"There is a pending payment on my account, what does this mean?",45,pending_card_payment
+5208,Why has my card payment not yet been applied to my account?,45,pending_card_payment
+5209,I bought some things in the morning but the payment shows as pending,45,pending_card_payment
+5210,I don't know what a pending payment is.,45,pending_card_payment
+5211,why do I have a pending payment?,45,pending_card_payment
+5212,How long does it actually take for a card payment to go through? There's one stuck since a couple of days already that doesn't seem to move,45,pending_card_payment
+5213,I purchases several items today. Why are they still showing pending?,45,pending_card_payment
+5214,There is a payment showing as pending and hasn't posted for a few days.  When will it post?,45,pending_card_payment
+5215,"I have made a payment by my card, and its still pending since a long time. Could you please tell me when it will process.",45,pending_card_payment
+5216,I completed a payment with my card a while ago. It's still showing up as pending. What time frame does this normally take? It doesn't appear to have worked.,45,pending_card_payment
+5217,The payment on my card shows as pending.,45,pending_card_payment
+5218,I have a payment that is still pending,45,pending_card_payment
+5219,I bought something this morning and the payment is still pending,45,pending_card_payment
+5220,"There is a pending transaction on my account, what does this mean?",45,pending_card_payment
+5221,I made a payment that's pending. Will it go through?,45,pending_card_payment
+5222,It's been a few days since I've tried to pay a seller but the funds aren't going through. What is happening?,45,pending_card_payment
+5223,I made a payment that seems to be stuck. It's been a couple of days already. Can you tell me how long it will take?,45,pending_card_payment
+5224,I made a payment that is not yet complete.,45,pending_card_payment
+5225,Why hasn't my payment shown up yet?,45,pending_card_payment
+5226,What is the meaning of a pending payment?,45,pending_card_payment
+5227,My payment is in the app but hasn't gone through yet,45,pending_card_payment
+5228,How many days does a regular transaction take to complete?  I see a pending payment that hasn't changed in the last several days.,45,pending_card_payment
+5229,Why hasn't my payment gone through yet?,45,pending_card_payment
+5230,My payment's stuck on pending.,45,pending_card_payment
+5231,Is there a reason my payment is still pending?,45,pending_card_payment
+5232,What's the pending length for credit transactions? I've had one in my pending category now for days and it won't move to processed.,45,pending_card_payment
+5233,How long does it take for a payment to change from pending?,45,pending_card_payment
+5234,My credit card payment has been in pending status for a super long time.  I don't get it.  Why is it like this?  When will it go through?,45,pending_card_payment
+5235,Why hasn't payment gone through yet?,45,pending_card_payment
+5236,Why is this payment pending?,45,pending_card_payment
+5237,Why is the payment from my card still pending?,45,pending_card_payment
+5238,What is the pending payment on my card about?,45,pending_card_payment
+5239,"It says that my payment is pending, what does that mean?",45,pending_card_payment
+5240,I tried to make a payment with my card and it was declined. Why is it pending?,45,pending_card_payment
+5241,Why is it saying I have a pending payment?,45,pending_card_payment
+5242,"Is there something wrong with my card payment? It's been pending a really, really long time.",45,pending_card_payment
+5243,My purchases from this morning still have pending payments.,45,pending_card_payment
+5244,When will my pending payment finish?,45,pending_card_payment
+5245,"I used my card to make a payment a while ago and its still pending, Why is it taking so long?",45,pending_card_payment
+5246,How long does it take for a purchase to go from pending to authorised?,45,pending_card_payment
+5247,"My card has been pending for a while, what should I do?",45,pending_card_payment
+5248,There is a payment that i made that i noticed has not gone thru yet. Can i ask why?,45,pending_card_payment
+5249,"My card payment is just showing up as pending and it has been a while , what's going on with that, it should be going through at some point?",45,pending_card_payment
+5250,How long will my payment be pending?,45,pending_card_payment
+5836,I'm not sure why my card didn't work,25,declined_card_payment
+5837,My card is not working at stores.,25,declined_card_payment
+5838,Do you know why my card payment has been declined?,25,declined_card_payment
+5839,Why isn't my card working? I was pumped to use my new card but it keeps getting declined. Help please.,25,declined_card_payment
+5840,I could not use my card in a store.,25,declined_card_payment
+5841,If my card payment isn't working what do I do?,25,declined_card_payment
+5842,I'm not sure why the card payment didn't work.,25,declined_card_payment
+5843,Tell me why my card payment has been declined.,25,declined_card_payment
+5844,I was just shopping online for some tickets and the payment was declined by you.  Why has this happened?  I am certain I have the right amount of funds in my account.,25,declined_card_payment
+5845,I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?,25,declined_card_payment
+5846,What are the reasons why a card payment would be declined?,25,declined_card_payment
+5847,The card payment I attempted to make failed.,25,declined_card_payment
+5848,Why has my card been declined?,25,declined_card_payment
+5849,I went to use my new card today and the card was repeatedly declined. I would really like to use this card and need to know what to do about it.,25,declined_card_payment
+5850,"I was out today looking forward to paying with my new card, but the payment just kept getting declined. This is really sad, what's going on?",25,declined_card_payment
+5851,What is the reason my payment was not accepted?,25,declined_card_payment
+5852,"May monthly payment to Apple has been declined but I don't know why, they are going to re-try the payment and it must go through, can you tell me what is going on please?",25,declined_card_payment
+5853,You have declined my  payment.,25,declined_card_payment
+5854,Can you tell me why my card keeps getting declined every time I try to use it?,25,declined_card_payment
+5855,Can you tell me why my card is not working? I keep trying to use it but it keeps rejecting my payment. I am being careful and entering the info correctly but it still happens.,25,declined_card_payment
+5856,"Apparently, I went out today to use my new card and was informed my payment was decline. This is really embarrassing, what happen?",25,declined_card_payment
+5857,I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.,25,declined_card_payment
+5858,How do I check to see why my card payment was declined?,25,declined_card_payment
+5859,Why was my card declined in a shop?,25,declined_card_payment
+5860,The payment for the card did not go through,25,declined_card_payment
+5861,My card was rejected,25,declined_card_payment
+5862,I use this card all the time so why did it get declined at the store today?,25,declined_card_payment
+5863,I couldn't pay with my card,25,declined_card_payment
+5864,Why are all my card payments being declined?,25,declined_card_payment
+5865,I couldn't pay with card in a shop,25,declined_card_payment
+5866,Why is my payment declined? It looked like everything worked ok and my account was fine.,25,declined_card_payment
+5867,My card payment failed.,25,declined_card_payment
+5868,"My payment has been declined!! What's going on, I thought everything was alright and working well?",25,declined_card_payment
+5869,My latest payment was declined! What happened! I was told everything had been resolved and was back to working order again.,25,declined_card_payment
+5870,My card wasn't working in a shop,25,declined_card_payment
+5871,I'm sure I have enough money so why didn't the store accept my card?,25,declined_card_payment
+5872,Why has my payment been declined? I paid by card.,25,declined_card_payment
+5873,can you tell me why my card was declined?,25,declined_card_payment
+5874,My card didn't go through.  It doesn't make sense.  You told me that everything was ok.,25,declined_card_payment
+5875,Please explain why my payment was declined? I thought everything was good.,25,declined_card_payment
+5876,"When I use my card, it says decline?",25,declined_card_payment
+5877,My card payment didn't work,25,declined_card_payment
+5878,"I was just shopping and my payment was declined in a store!  It was very embarrassing, what is going on and when will it be fixed?",25,declined_card_payment
+5879,Why was my card declined?,25,declined_card_payment
+5880,I tried to make a purchase in the store but my card was declined.,25,declined_card_payment
+5881,My card payment wasn't accepted.,25,declined_card_payment
+5882,is there a reason that my payment didnt go through,25,declined_card_payment
+5883,My card payment did not go through.,25,declined_card_payment
+5884,Explain the payment that was declined!,25,declined_card_payment
+5885,Explain why my card payment wouldn't go through.,25,declined_card_payment
+5886,Why didn;t my payment work,25,declined_card_payment
+5887,My card couldn't pay in a shop.,25,declined_card_payment
+5888,My payment card was declined - could you tell me why?,25,declined_card_payment
+5889,"Hi, is everything in good standing with my card? I am receiving multiple ""decline"" messages.",25,declined_card_payment
+5890,Why didn't my card payment work?,25,declined_card_payment
+5891,My card payment didn't go through.,25,declined_card_payment
+5892,How can a payment be declined,25,declined_card_payment
+5893,The store card reader would not accept my card.,25,declined_card_payment
+5894,Why was my payment declined? I keep trying my card but it's not working.,25,declined_card_payment
+5895,My card was declined,25,declined_card_payment
+5896,my payment was rejected,25,declined_card_payment
+5897,I was wondering why my card was declined,25,declined_card_payment
+5898,"Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.",25,declined_card_payment
+5899,Why did my card payment not work?,25,declined_card_payment
+5900,"my card payment has been declined, do you know why?",25,declined_card_payment
+5901,My credit card has been declined.,25,declined_card_payment
+5902,Why did my card payment get declined?,25,declined_card_payment
+5903,Why won't you accept my payment? I keep trying with this card and it's not working.,25,declined_card_payment
+5904,My card payment is being declined and I've tried several times.,25,declined_card_payment
+5905,For some reason my card payment didn't work,25,declined_card_payment
+5906,Why has my card declined,25,declined_card_payment
+5907,A shop I go to didn't let me pay.,25,declined_card_payment
+5908,Why did my payment fail?,25,declined_card_payment
+5909,Can you tell me why my card payment did not work?,25,declined_card_payment
+5910,My card would not work at a shop.,25,declined_card_payment
+5911,I could not get my card to work at a shop.,25,declined_card_payment
+5912,My card payment has been declined,25,declined_card_payment
+5913,I've tried using my card multiple times and it keeps getting declined.,25,declined_card_payment
+5914,My card was refused,25,declined_card_payment
+5915,Why is it saying my card payment is declined when I made it?,25,declined_card_payment
+5916,My card failed to work when I was shopping in a store,25,declined_card_payment
+5917,why couldn't I use my card at a store?,25,declined_card_payment
+5918,My card did not work at store.,25,declined_card_payment
+5919,Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?,25,declined_card_payment
+5920,Why was my new card declined?,25,declined_card_payment
+5921,Why do you keep declining my payment?I tried several times with this card and it is just not working.,25,declined_card_payment
+5922,Why do you keep declining my payment? I tried several times already with this card and it is just not working.,25,declined_card_payment
+5923,Why am I being declined?,25,declined_card_payment
+5924,Could you explain why my card payment did not work?,25,declined_card_payment
+5925,"Hi, Today i have tried to make payment by my new card, but payment got declined many times. I am very disappointed, please look into this.",25,declined_card_payment
+5926,I don't know why my card payment did not work,25,declined_card_payment
+5927,"my card was refused, why?",25,declined_card_payment
+5928,I don't understand why my payment was declined. I thought everything was ok.,25,declined_card_payment
+5929,I tried to pay with my card and it didn't work,25,declined_card_payment
+5930,Why do you keep declining my payment?I tried several times already with this card and it is just not working.,25,declined_card_payment
+5931,The card payment is declined.  Please inform me why.,25,declined_card_payment
+5932,"My card payment has been declined, why?",25,declined_card_payment
+5933,Why would you decline my card?,25,declined_card_payment
+5934,My payment for my card is not working,25,declined_card_payment
+5935,Why would a card payment be declined?,25,declined_card_payment
+5936,I was so embarrassed. Why didn't my payment clear?,25,declined_card_payment
+5937,It seems like my card payment didn't work.,25,declined_card_payment
+5938,"I've tried many times to make a payment, but it's not going through.  What's wrong?",25,declined_card_payment
+5939,Why has my card been declined?  whats the deal?,25,declined_card_payment
+5940,For some reason my card payment hasn't worked. what can I do to look into that?,25,declined_card_payment
+5941,Could you please tell me why my card payment didn't work?,25,declined_card_payment
+5942,"my payment was rejected, do you know why?",25,declined_card_payment
+5943,My card payment doesn't work.,25,declined_card_payment
+5944,"I made a card payment, but it has been declined?",25,declined_card_payment
+5945,"Everything seems fine with my account, so why did it decline my payment?",25,declined_card_payment
+5946,"I'm not sure why my payment has been declined? Please tell me why, I thought it was all good.",25,declined_card_payment
+5947,My payment has been declined several times.  Can you help me?,25,declined_card_payment
+5948,I had a decline on my card. Why?,25,declined_card_payment
+5949,When I tried to pay in a store my card din't work,25,declined_card_payment
+5950,I was just needing to know why my card got declined,25,declined_card_payment
+5951,My payment was declined,25,declined_card_payment
+5952,Why was the payment on my card declined?,25,declined_card_payment
+5953,I made a card payment but it didn't work. Why not?,25,declined_card_payment
+5954,"I was out today looking forward to paying with my brand new card, turns out the payment just kept getting declined. This is pretty sad, what's going on?",25,declined_card_payment
+5955,Do you know the reason why my card payment was declined?,25,declined_card_payment
+5956,What is going on with it saying my card payment was declined?,25,declined_card_payment
+5957,"I keep trying to make a payment, but it doesn't work.",25,declined_card_payment
+5958,What could the reason be that my payment card was declined?,25,declined_card_payment
+5959,My card did not go through in a shop,25,declined_card_payment
+5960,Is there an issue with my card payment as it has not gone through.,25,declined_card_payment
+5961,Why wasn't my card payment accepted?,25,declined_card_payment
+5962,I keep trying to use my card to buy some things and you keep declining it. Why? I've tried multiple times to make it go through but it won't.,25,declined_card_payment
+5963,The card payment I made didn't work.,25,declined_card_payment
+5964,"I received my new card and tried using it today, just to have it show declined over and over again.  Why is this happening?",25,declined_card_payment
+5965,My card payment won't work.,25,declined_card_payment
+5966,My card payment has failed.,25,declined_card_payment
+5967,Whats the reason for my payment being declined? It looked like everything went through ok and my account was good.,25,declined_card_payment
+5968,I just got my new card and tried using it and it was declined?,25,declined_card_payment
+5969,"I know there's money in my account, why did my account decline me?",25,declined_card_payment
+5970,Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working.,25,declined_card_payment
+5971,Why would my card payment not work?,25,declined_card_payment
+5972,My card payment wasn't declined,25,declined_card_payment
+5973,Reason for my card to decline,25,declined_card_payment
+5974,Why have you declined my card payment?,25,declined_card_payment
+5975,My card was not accepted in a shop,25,declined_card_payment
+5976,I had a card payment that was declined.  Why?,25,declined_card_payment
+5977,How come my card payment has been declined?,25,declined_card_payment
+5978,"I have enough money in my account, so why is my card being declined?",25,declined_card_payment
+5979,Can you please advise if there is something wrong with my card? I have had multiple rejections and do not know the reason. Thanks!,25,declined_card_payment
+5980,"Card payment was declined, do you know why?",25,declined_card_payment
+5981,I've tried several times to make a payment and every time my card is declined? Could my card be locked? I don't know what to do.,25,declined_card_payment
+5982,"I had a problem with my card payment, can you help?",25,declined_card_payment
+5983,I tried to used my card in a shop and the transaction was declined.,25,declined_card_payment
+5984,"I was out today looking forward to paying with my new card, turns out the payment kept getting declined. This is really sad, what's going on?",25,declined_card_payment
+5985,Card payment didn't go through.,25,declined_card_payment
+5986,Please help to explain to me why my new card was declined when I tried to use it at my grocery store this morning to pay for the items I needed.  I tried three times to use it and it kept being declined.  I was very embarrassed standing there trying to buy my groceries.,25,declined_card_payment
+5987,My card payment was not successful.,25,declined_card_payment
+5988,Tell me why my card payment was declined.,25,declined_card_payment
+6245,What do I do if the ATM took my card?,18,card_swallowed
+6246,What do I do now my credit card has been swallowed by the ATM?,18,card_swallowed
+6247,An ATM machine didn't give me back my card.,18,card_swallowed
+6248,"My card got trapped inside an ATM, what should I do?",18,card_swallowed
+6249,What do I do if I can't get my card out of the ATM?,18,card_swallowed
+6250,My card got stuck in an ATM.,18,card_swallowed
+6251,Your machine took my card. How do I get it back?,18,card_swallowed
+6252,"I can't get my card out of the ATM, what should I do now?",18,card_swallowed
+6253,My card is stuck in the ATM?,18,card_swallowed
+6254,I didn't get my card back from the ATM.,18,card_swallowed
+6255,"The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?",18,card_swallowed
+6256,I need a new card because the ATM took mine.,18,card_swallowed
+6257,The ATM stole my card!,18,card_swallowed
+6258,How can I get my card out of the stupid ATM that ate it?,18,card_swallowed
+6259,The ATM took my card.,18,card_swallowed
+6260,The ATM won't give me my card back. I need it back now!,18,card_swallowed
+6261,How do I get my card back quickly from a bank machine that it?,18,card_swallowed
+6262,The ATM sucked my card in.,18,card_swallowed
+6263,The ATM did not give me my card back?,18,card_swallowed
+6264,I was getting cash and the card got stuck inside,18,card_swallowed
+6265,What should I do since my card is trapped in the ATM?,18,card_swallowed
+6266,what do I need to do if the ATM kept my card?,18,card_swallowed
+6267,The ATM machine would not give my card back,18,card_swallowed
+6268,I can't get my card out of the ATM,18,card_swallowed
+6269,Why did the ATM take my card and keep it?,18,card_swallowed
+6270,What are the steps to get my card back that was kept by the ATM?,18,card_swallowed
+6271,How do I get my card out of the ATM?,18,card_swallowed
+6272,Why did the ATM eat my card?,18,card_swallowed
+6273,Please send a new card; the ATM ate mine.,18,card_swallowed
+6274,The ATM didnt return my card!,18,card_swallowed
+6275,I was removing a dollar amount from my account and now don't have access to my card.,18,card_swallowed
+6276,A Bank ATM did not give my card back. What do I do now?,18,card_swallowed
+6277,Why did the ATM swallow my card?,18,card_swallowed
+6278,lost my card in atm,18,card_swallowed
+6279,I cannot get my card out of the ATM.,18,card_swallowed
+6280,An ATM machine didn't return my card.,18,card_swallowed
+6281,My card is stuck inside the ATM.,18,card_swallowed
+6282,The bank machine didn't give my card back how do I get a new one fast?,18,card_swallowed
+6283,What should I do if the atm eats my card?,18,card_swallowed
+6284,What do I do?  The ATM took my card!,18,card_swallowed
+6285,The ATM kept my card?,18,card_swallowed
+6286,Who do I talk to about the ATM swallowing my card?,18,card_swallowed
+6287,An ATM swallowed my credit card!,18,card_swallowed
+6288,What do I do if the ATM swallowed my card?,18,card_swallowed
+6289,"Please help, the atm swallowed my card, what do I do?",18,card_swallowed
+6290,I have lost my credit card in the ATM!,18,card_swallowed
+6291,how can the money machine keep my card what do i need to do?,18,card_swallowed
+6292,How do I get a new card as your machine swallowed mine!,18,card_swallowed
+6293,The ATM machine ate my card.,18,card_swallowed
+6294,how to get new card after atm eats it,18,card_swallowed
+6295,My card was eaten by the cash machine what do I do?,18,card_swallowed
+6296,What do I do after the ATM takes my card.,18,card_swallowed
+6297,How can I get my card out of the ATM?,18,card_swallowed
+6298,Will you please help me get my card back?,18,card_swallowed
+6299,The ATM ate my card; how do I get a new one?,18,card_swallowed
+6300,How do I get my card back after the ATM swallowed it.,18,card_swallowed
+6301,"My card is stuck in an ATM machine, how do I get it back quickly?",18,card_swallowed
+6302,atm ate my card,18,card_swallowed
+6303,What are the steps I should take to recover my swallowed card?,18,card_swallowed
+6304,"My card is stuck inside the ATM, what am I supposed to do?",18,card_swallowed
+6305,What should I do with my stuck ATM?,18,card_swallowed
+9179,Please help me with my card.  It won't activate.,0,activate_my_card
+9180,I tired but an unable to activate my card.,0,activate_my_card
+9181,I want to start using my card.,0,activate_my_card
+9182,How do I verify my new card?,0,activate_my_card
+9183,I tried activating my plug-in and it didn't piece of work,0,activate_my_card
+9184,How do i activate my card,0,activate_my_card
+9185,Can someone assist me with activating my card?,0,activate_my_card
+9186,My card needs to be activated.,0,activate_my_card
+9187,I was unable to activate my card.,0,activate_my_card
+9188,Is my card ready for use or does it need activated and if so how?,0,activate_my_card
+9189,Help me activate my new card.,0,activate_my_card
+9190,Do I need a photo ID to activate a my new card?,0,activate_my_card
+9191,"I just got my new card, how do I activate it?",0,activate_my_card
+9192,Can I have my card activated?,0,activate_my_card
+9193,i cant seem to activate card,0,activate_my_card
+9194,It won't let me activate my card.,0,activate_my_card
+9195,I tried activation my card and it didn't employment,0,activate_my_card
+9196,I want to use my card. How do I activate it?,0,activate_my_card
+9197,Activate my card,0,activate_my_card
+9198,Can I get some help activating my new card?,0,activate_my_card
+9199,Is my card activated?,0,activate_my_card
+9200,I would like to activate my card.,0,activate_my_card
+9201,Can I call to get my card activated?,0,activate_my_card
+9202,How can I activate my new card? I didn't recieve any information with it about how to do so.,0,activate_my_card
+9203,How do I activate my new card I just got?,0,activate_my_card
+9204,will you be able to activate my card,0,activate_my_card
+9205,Can I get some help to get me card activated?,0,activate_my_card
+9206,I want to activate my new card.,0,activate_my_card
+9207,What would II do if I wanted to activate my new card,0,activate_my_card
+9208,What needs to be done to activate and use a card?,0,activate_my_card
+9209,Can I activate my card?,0,activate_my_card
+9210,I need assistance activating my card?,0,activate_my_card
+9211,I need assistance with activating my new card.,0,activate_my_card
+9212,How do I get my card active?,0,activate_my_card
+9213,What do I have to do to activate my card?,0,activate_my_card
+9214,What is needed to activate my card?,0,activate_my_card
+9215,How can my new card be activated?,0,activate_my_card
+9216,Can you activate my card pls,0,activate_my_card
+9217,How do I turn on my new card?,0,activate_my_card
+9218,Please assist me in activating the card.,0,activate_my_card
+9219,Would you be so kind as to activate my card? Thanks,0,activate_my_card
+9220,I tried activating my card and it doesn't work how do I solve this problem?,0,activate_my_card
+9221,Can I activate my card with the app?,0,activate_my_card
+9222,"I want to start using my card, how do I activate it?",0,activate_my_card
+9223,What is the process to activate a card,0,activate_my_card
+9224,"Hi, would you please activate my card?",0,activate_my_card
+9225,What do I need for activation of my card?,0,activate_my_card
+9226,"How do I activate my card, so that I can start using it?",0,activate_my_card
+9227,I need my card activated.,0,activate_my_card
+9228,I would like to be assisted with the activation of my card.,0,activate_my_card
+9229,I just received my card and I'd like to activate it.,0,activate_my_card
+9230,can you assist me in activating my card?,0,activate_my_card
+9231,How do I activate my card to start using it?,0,activate_my_card
+9232,Instructions for activating card,0,activate_my_card
+9233,What do I need to do for the card activation?,0,activate_my_card
+9234,"I am unable to activate my card, it won't let me.",0,activate_my_card
+9235,When are you going to activate my card?,0,activate_my_card
+9236,I need to activate my card.,0,activate_my_card
+9237,How can I activate my new card?,0,activate_my_card
+9238,What do I do to activate?,0,activate_my_card
+9239,What steps do I have to take to activate my card?,0,activate_my_card
+9240,"My new card just arrived, how can I activate it?",0,activate_my_card
+9241,I am having trouble activating my card.,0,activate_my_card
+9242,My card is not able to be activated how do I get it to work?,0,activate_my_card
+9243,I'm not able to activate my card how do I fix this problem?,0,activate_my_card
+9244,I cannot activate my card.,0,activate_my_card
+9245,How can I activate the new card i got?,0,activate_my_card
+9246,how long should i wait ti activate my card,0,activate_my_card
+9247,How do I activate a card?,0,activate_my_card
+9248,What is the procedure for activating this card?,0,activate_my_card
+9249,My card needs to be activated asap,0,activate_my_card
+9250,What is the most efficient way to activate my new card?,0,activate_my_card
+9251,I couldn't complete card activation.,0,activate_my_card
+9252,Who do I call to activate my new card?,0,activate_my_card
+9253,"You can activate your card in a few seconds by going to account, hitting activate, and just following the directions.",0,activate_my_card
+9254,Tell me what I need to do to activate my card.,0,activate_my_card
+9255,What is the process for activating a new card.,0,activate_my_card
+9256,My card activation is failing.,0,activate_my_card
+9257,"I need to activate my card, how is that done?",0,activate_my_card
+9258,I would like to activate my card what do I need to do?,0,activate_my_card
+9259,I have my card now how do I activate it?,0,activate_my_card
+9260,How long does it take to activate my card?,0,activate_my_card
+9261,How do I activate my card so I can start using it?,0,activate_my_card
+9262,Explain the activation method for this card,0,activate_my_card
+9263,Can someone assist me with activating my new card?,0,activate_my_card
+9264,What is the process for activating my new card?,0,activate_my_card
+9265,I would like to have assistance with activating my card.,0,activate_my_card
+9266,Tell me how to renew my new card?,0,activate_my_card
+9267,My new card came in.  How do I activate?,0,activate_my_card
+9268,How do I active this card?,0,activate_my_card
+9269,what are the steps to activate my card?,0,activate_my_card
+9270,I have a new card and need to activate it,0,activate_my_card
+9271,I would like to get help from someone in your customer service department with assisting me with activating my card.,0,activate_my_card
+9272,What are the steps that I need to take to activate a new card?,0,activate_my_card
+9273,I tried activating my card and it didn't work,0,activate_my_card
+9274,I need my card to be activated right now.,0,activate_my_card
+9275,What information do I need to gather in order to activate my card?,0,activate_my_card
+9276,what do i need to have with me to activate card,0,activate_my_card
+9277,What am I going to need in order to activate my card?,0,activate_my_card
+9278,Show me how to activate my card,0,activate_my_card
+9279,I need more assistance with how to activate my card.,0,activate_my_card
+9280,Can you tell me how I go about activating a new card?,0,activate_my_card
+9281,My new card needs activating.,0,activate_my_card
+9282,Where do I activate my card?,0,activate_my_card
+9283,Do you know the process how to activate my card?,0,activate_my_card
+9284,How can i make my card active?,0,activate_my_card
+9285,Please help me with the activation of the new card.,0,activate_my_card
+9286,Can you help me activate my card,0,activate_my_card
+9287,My card activation attempt failed.,0,activate_my_card
+9288,"I just got a new card, and I want to know how to activate.",0,activate_my_card
+9289,Would it be possible to activate my card?,0,activate_my_card
+9290,Card activation steps,0,activate_my_card
+9291,What is the process for activating my card and using it?,0,activate_my_card
+9292,I have a new card and I need to activate it.,0,activate_my_card
+9293,Do I have to go somewhere to activate my card?,0,activate_my_card
+9294,What do I do to activate my new card?,0,activate_my_card
+9295,I just got a new card how do I get it to start working?,0,activate_my_card
+9296,I need assistance to activate the card on my account.,0,activate_my_card
+9297,I can't activate my card?,0,activate_my_card
+9298,"My new card is here, what's the process for activating it?",0,activate_my_card
+9299,Where can I activate my card?,0,activate_my_card
+9300,How can I switch on my new card?,0,activate_my_card
+9301,"With my new card, how may I activate it?",0,activate_my_card
+9302,Help me activate my card.,0,activate_my_card
+9303,"How long does it take to activate the card, as it does not look like its working?",0,activate_my_card
+9304,"You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",0,activate_my_card
+9305,Card activation is not working. What do i do?,0,activate_my_card
+9306,What identification is required to activate my card?,0,activate_my_card
+9307,I need to do a card activation.,0,activate_my_card
+9308,"I want to activate my card, how do I do it?",0,activate_my_card
+9309,I want to activate the card.,0,activate_my_card
+9310,I am planning activating my card was it possible?,0,activate_my_card
+9311,The activation process for my card isn't working.,0,activate_my_card
+9312,Could you please tell me how to activate my new card?,0,activate_my_card
+9313,I need to actuate my card.,0,activate_my_card
+9314,I need info on activating my card?,0,activate_my_card
+9315,I would like my card activated.,0,activate_my_card
+9316,How can I make my card ready to use?,0,activate_my_card
+9317,Can I use my new card?,0,activate_my_card
+9318,What steps do I have to go through in order to activate my new card?,0,activate_my_card
+9319,I have a new card. How do I activate it?,0,activate_my_card
+9320,"The activation process did not work, please help?",0,activate_my_card
+9321,I just got my card and cannot get it to work.,0,activate_my_card
+9322,"Just received my replacement card, what steps do i need to take to activate it?",0,activate_my_card
+9323,"I want to use my card, how would I activate it?",0,activate_my_card
+9324,How do I activate my new card,0,activate_my_card
+9325,"What are the steps to activate the card, as it does not seem to work?",0,activate_my_card
+9326,I just got my new card.  How can I activate it?,0,activate_my_card
+9327,Please assist me with activation.,0,activate_my_card
+9328,Where do I go to activate my card?,0,activate_my_card
+9329,"If you to to account, hit activate, and follow the instructions, you can activate it in just a few seconds.",0,activate_my_card
+9330,Is my new card activated?,0,activate_my_card
+9331,Help my activate my card.,0,activate_my_card
+9332,i cannot seem to activate card,0,activate_my_card
+9333,What do I need to do in order to use my card I just got?,0,activate_my_card
+9334,"My new card has arrived, what's the activation procedure?",0,activate_my_card
+9335,How can my new card be renewed?,0,activate_my_card
+9336,What is the proper way to activate a card?,0,activate_my_card
+9337,How do I activate my card that just arrived?,0,activate_my_card
