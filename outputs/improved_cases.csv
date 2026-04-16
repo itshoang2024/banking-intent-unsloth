@@ -1,0 +1,133 @@
+text,label_name,base_pred,base_correct,ft_pred,ft_correct
+"I still have not received my new card, I ordered over a week ago.",card_arrival,declined_card_payment,False,card_arrival,True
+I ordered a card but it has not arrived. Help please!,card_arrival,card_not_working,False,card_arrival,True
+My card has not arrived yet.,card_arrival,card_not_working,False,card_arrival,True
+Do you know if there is a tracking number for the new card you sent me?,card_arrival,card_delivery_estimate,False,card_arrival,True
+i have not received my card,card_arrival,lost_or_stolen_card,False,card_arrival,True
+still waiting on that card,card_arrival,UNKNOWN,False,card_arrival,True
+Is it normal to have to wait over a week for my new card?,card_arrival,pending_card_payment,False,card_arrival,True
+How do I track my card?,card_arrival,UNKNOWN,False,card_arrival,True
+I still don't have my card after 2 weeks.  What should I do?,card_arrival,lost_or_stolen_card,False,card_arrival,True
+I am still waiting for my card after 1 week.  Is this ok?,card_arrival,pending_card_payment,False,card_arrival,True
+"I have been waiting longer than expected for my bank card, could you provide information on when it will arrive?",card_arrival,card_delivery_estimate,False,card_arrival,True
+I've been waiting longer than expected for my card.,card_arrival,card_delivery_estimate,False,card_arrival,True
+Why hasn't my card been delivered?,card_arrival,card_delivery_estimate,False,card_arrival,True
+Where is my new card? I have been waiting a week!,card_arrival,card_delivery_estimate,False,card_arrival,True
+My card still hasn't arrived after 2 weeks. Is it lost?,card_arrival,lost_or_stolen_card,False,card_arrival,True
+"I did not get my card yet, is it lost?",card_arrival,lost_or_stolen_card,False,card_arrival,True
+Status of the card I ordered.,card_arrival,pending_card_payment,False,card_arrival,True
+I ordered my card 2 weeks ago and it still isn't here? What do I do?,card_arrival,lost_or_stolen_card,False,card_arrival,True
+"My card has not arrived yet, where is it?",card_arrival,card_not_working,False,card_arrival,True
+What is the tracking number for my card that was mailed?,card_arrival,card_delivery_estimate,False,card_arrival,True
+I think something went wrong with my card delivery as I haven't received it yet.,card_arrival,lost_or_stolen_card,False,card_arrival,True
+"I'm still waiting for delivery of my new card, why is it taking so long?",card_arrival,card_delivery_estimate,False,card_arrival,True
+"I ordered a card a week ago, and it's still not here. What do I do?",card_arrival,lost_or_stolen_card,False,card_arrival,True
+i want to track the card you sent,card_arrival,card_delivery_estimate,False,card_arrival,True
+My card hasn't arrived yet.,card_arrival,card_not_working,False,card_arrival,True
+I was expecting my new card and am wondering why I haven't received it yet?,card_arrival,pending_card_payment,False,card_arrival,True
+I'm still waiting on my card to be delivered.,card_arrival,card_delivery_estimate,False,card_arrival,True
+Does the card you sent have a way to track to it?,card_arrival,card_delivery_estimate,False,card_arrival,True
+I ordered a card and I still haven't received it. It's been two weeks. What can I do?,card_arrival,pending_card_payment,False,card_arrival,True
+"I'm starting to think my card is lost because it still hasn't arrived, can you help?",card_arrival,lost_or_stolen_card,False,card_arrival,True
+Is there tracking info available?,card_arrival,card_delivery_estimate,False,card_arrival,True
+What is the tracking number for the card you sent?,card_arrival,card_delivery_estimate,False,card_arrival,True
+Where is the tracking number for the card you sent me?,card_arrival,card_delivery_estimate,False,card_arrival,True
+I need my card now!,card_delivery_estimate,card_arrival,False,card_delivery_estimate,True
+What is the difference between standard and express delivery?,card_delivery_estimate,UNKNOWN,False,card_delivery_estimate,True
+Send my card as soon as you are able to.,card_delivery_estimate,card_arrival,False,card_delivery_estimate,True
+My card appears to be broken how can I fix it?,card_not_working,lost_or_stolen_card,False,card_not_working,True
+My card broke.,card_not_working,lost_or_stolen_card,False,card_not_working,True
+Can you please identify the problem with my bank card?,card_not_working,lost_or_stolen_card,False,card_not_working,True
+How do I unblock my card using the app?,card_not_working,lost_or_stolen_card,False,card_not_working,True
+I think my card is broken,card_not_working,lost_or_stolen_card,False,card_not_working,True
+Is my card broken?,card_not_working,lost_or_stolen_card,False,card_not_working,True
+"My card is broke, what do I do?",card_not_working,lost_or_stolen_card,False,card_not_working,True
+I can't use my card.,card_not_working,declined_card_payment,False,card_not_working,True
+I cannot use my card.,card_not_working,declined_card_payment,False,card_not_working,True
+The card I've got seems to be broken.,card_not_working,lost_or_stolen_card,False,card_not_working,True
+My card doesn't accept any transaction at all. What's wrong??,card_not_working,declined_card_payment,False,card_not_working,True
+"Can I check somewhere if there will be a fee on my payment or not? Seems you are charging in some cases, what's the pattern there?",card_payment_fee_charged,declined_card_payment,False,card_payment_fee_charged,True
+So what items  actually come  with  extra  fees,card_payment_fee_charged,declined_card_payment,False,card_payment_fee_charged,True
+Is using my card free?,card_payment_fee_charged,declined_card_payment,False,card_payment_fee_charged,True
+I have a strange payment in my statement,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+I saw a payment i did not do,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+There is a payment that is not mine in the app.  Please advise/,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+An unauthorized payment is in my app,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+I did not make this card payment.,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+What should I do if I see a payment I didn't make?,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+I found an unauthorized card payment,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+there is a transaction on my account that i didnt make,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+I don't recall making that payment?,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+There are some payments with my card that I don't know where they are coming from. Just checked today and it's been since a couple days as well! What to I do? Can I revert this retrospectively? My card needs to be frozen immediately as well!,card_payment_not_recognised,pending_card_payment,False,card_payment_not_recognised,True
+Has someone accessed my card there are payments I did not make that are showing up on the app.,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+There are some strange charges on my card that I didn't make from a few days ago.  Is my card stolen and if so should I cancel it?  Will I get refunded the charges?,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+I have a payment I didn't do,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+There is a payment that is not mine.,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+Can you freeze my account?  I just saw there are transactions on my account that I don't recognize.  How can I fix this?,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+Payment i did not do,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+"Please put a freeze on my card,  I am worried there has been some payments on it and I don't know what for.",card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+I think my statement has a fraudulent charge,card_payment_not_recognised,UNKNOWN,False,card_payment_not_recognised,True
+What should I do to get transactions off of my account if I didn't make them?  My card must have been compromised and I need to freeze it asap!,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+What can I do about some payments on my card I didn't make.  Please put a freeze on my card till we can figure this out.,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+I'm not familiar with a card payment.,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+I have an unauthorized transaction on my statement,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+There is a payment in the App that is not mine.,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+I don't know where this transaction came from?,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+I see a charge on my account that I don't recall making. I feel like my account may have been compromised.,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+"I know I didn't make this payment showing up on my card, I don't remember this person at all.",card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+Somebody used my card to make a purchase,card_payment_not_recognised,card_swallowed,False,card_payment_not_recognised,True
+There's a recent charge on my card that I know I didn't make because I've never seen the name before. Can we investigate this?,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+Some of my card payments look different than where I purchased products from. Why is that?,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+There is a strange payment on my statement. What should I do?,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+I think there has been a purchase made that wasn't by me.,card_payment_not_recognised,lost_or_stolen_card,False,card_payment_not_recognised,True
+There is a fraudulent charge on my statement.,card_payment_not_recognised,declined_card_payment,False,card_payment_not_recognised,True
+What is the payment in my account that I did not do?,card_payment_not_recognised,pending_card_payment,False,card_payment_not_recognised,True
+"My card payment is still on hold, why is it so?",pending_card_payment,declined_card_payment,False,pending_card_payment,True
+How do i finalize a card payment,pending_card_payment,card_payment_not_recognised,False,pending_card_payment,True
+Why has my payment not gone through?,pending_card_payment,declined_card_payment,False,pending_card_payment,True
+My payment still hasn't processed!,pending_card_payment,declined_card_payment,False,pending_card_payment,True
+"I was double charged, and the second charge is showing as ""pending"". How long will it be before I get my money back once the second charge has been refunded?",pending_card_payment,card_payment_fee_charged,False,pending_card_payment,True
+"I have waited 15 days, but my payment still hasn't cleared.",pending_card_payment,declined_card_payment,False,pending_card_payment,True
+How long does it take to authorise a payment?,pending_card_payment,card_delivery_estimate,False,pending_card_payment,True
+I had a payment that I made and it's been some amount of time and would like to know when it's suppose to go though.,pending_card_payment,card_delivery_estimate,False,pending_card_payment,True
+How do you fix  my card payment?,declined_card_payment,card_payment_fee_charged,False,declined_card_payment,True
+"What do I do if an ATM ""stole"" my card?",card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+How do I retrieve my card from the machine?,card_swallowed,activate_my_card,False,card_swallowed,True
+I was retrieving money and my card wouldn't remove.,card_swallowed,declined_card_payment,False,card_swallowed,True
+What do I do since the machine swallowed my card. I need one.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+HOw do I get my card back after the ATM has pulled it in?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+Atm took my card,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+Is there a way I can get my ATM card back from the machine?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+I think the atm ate my card.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+The ATM didn't give me the card back!,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+How can I get my card out of the damn ATM?,card_swallowed,card_not_working,False,card_swallowed,True
+The atm won't give my card back!,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+How can I get my card back out?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+The ATM at Metro bank on High St. Kensington swallowed my card. How do I get it back?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+My ATM got stuck and I'm not sure what to do.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+The ATM ate my card.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+The ATM won't give me my card back.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+My card was confiscated by an ATM. How do I get my card back?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+What do I do if the ATM ate my card?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+ATM still has my card,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+What do I do if an ATM ate my card?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+What happens if the ATM doesn't give me back my card?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+I can't pull my card out of the ATM. Help me.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+Why would an ATM swallow my card?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+My card was taken by the ATM.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+Help!  The atm won't give me my card back.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+The stupid machine just swallowed my card!! I need a new one ASAP,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+How do I retrieve a trapped card from a ATM?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+"My card is stuck in the ATM, what can I do?",card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+I was getting cash and can't get my card back.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+"If my card is trapped in the ATM, what do I do?",card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+My card has been swallowed by an ATM,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+I was taking out funds and was unable to regain my card.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+What should I do with my atm that got stuck?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+The ATM at Metro bank on High St. Kensington didn't return my card. What should I do now that the bank is closed?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+The ATM won't give back my card,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+I was at an ATM and it swallowed my card.,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+WTF??? I tried to withdraw some money at a Metro bank on High St. Kensington and without any notice it disappeared in the machine. The bank was already closed so I couldn't do anything. How do I get it back?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+What happens if my card is stuck in the ATM?,card_swallowed,lost_or_stolen_card,False,card_swallowed,True
+Why can't I activate my card?,activate_my_card,lost_or_stolen_card,False,activate_my_card,True
+I tried activating my bill of fare and it didn't workplace,activate_my_card,declined_card_payment,False,activate_my_card,True
