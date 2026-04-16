@@ -1,0 +1,3201 @@
+,prompt,response,text,label,label_name
+0,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I locate my card?",card_arrival,How do I locate my card?,11,card_arrival
+1,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I still have not received my new card, I ordered over a week ago.",card_arrival,"I still have not received my new card, I ordered over a week ago.",11,card_arrival
+2,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I ordered a card but it has not arrived. Help please!",card_arrival,I ordered a card but it has not arrived. Help please!,11,card_arrival
+3,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Is there a way to know when my card will arrive?",card_arrival,Is there a way to know when my card will arrive?,11,card_arrival
+4,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card has not arrived yet.",card_arrival,My card has not arrived yet.,11,card_arrival
+5,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+When will I get my card?",card_arrival,When will I get my card?,11,card_arrival
+6,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Do you know if there is a tracking number for the new card you sent me?",card_arrival,Do you know if there is a tracking number for the new card you sent me?,11,card_arrival
+7,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+i have not received my card",card_arrival,i have not received my card,11,card_arrival
+8,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+still waiting on that card",card_arrival,still waiting on that card,11,card_arrival
+9,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Is it normal to have to wait over a week for my new card?",card_arrival,Is it normal to have to wait over a week for my new card?,11,card_arrival
+10,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I track my card?",card_arrival,How do I track my card?,11,card_arrival
+11,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long does a card delivery take?",card_arrival,How long does a card delivery take?,11,card_arrival
+12,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I still don't have my card after 2 weeks.  What should I do?",card_arrival,I still don't have my card after 2 weeks.  What should I do?,11,card_arrival
+13,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+still waiting on my new card",card_arrival,still waiting on my new card,11,card_arrival
+14,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I am still waiting for my card after 1 week.  Is this ok?",card_arrival,I am still waiting for my card after 1 week.  Is this ok?,11,card_arrival
+15,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have been waiting longer than expected for my bank card, could you provide information on when it will arrive?",card_arrival,"I have been waiting longer than expected for my bank card, could you provide information on when it will arrive?",11,card_arrival
+16,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I've been waiting longer than expected for my card.",card_arrival,I've been waiting longer than expected for my card.,11,card_arrival
+17,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why hasn't my card been delivered?",card_arrival,Why hasn't my card been delivered?,11,card_arrival
+18,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Where is my new card? I have been waiting a week!",card_arrival,Where is my new card? I have been waiting a week!,11,card_arrival
+19,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card still hasn't arrived after 2 weeks. Is it lost?",card_arrival,My card still hasn't arrived after 2 weeks. Is it lost?,11,card_arrival
+20,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I did not get my card yet, is it lost?",card_arrival,"I did not get my card yet, is it lost?",11,card_arrival
+21,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Status of the card I ordered.",card_arrival,Status of the card I ordered.,11,card_arrival
+22,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long should my new card take to arrive?",card_arrival,How long should my new card take to arrive?,11,card_arrival
+23,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I ordered my card 2 weeks ago and it still isn't here? What do I do?",card_arrival,I ordered my card 2 weeks ago and it still isn't here? What do I do?,11,card_arrival
+24,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card has not arrived yet, where is it?",card_arrival,"My card has not arrived yet, where is it?",11,card_arrival
+25,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What is the tracking number for my card that was mailed?",card_arrival,What is the tracking number for my card that was mailed?,11,card_arrival
+26,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I think something went wrong with my card delivery as I haven't received it yet.",card_arrival,I think something went wrong with my card delivery as I haven't received it yet.,11,card_arrival
+27,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I'm still waiting for delivery of my new card, why is it taking so long?",card_arrival,"I'm still waiting for delivery of my new card, why is it taking so long?",11,card_arrival
+28,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I ordered a card a week ago, and it's still not here. What do I do?",card_arrival,"I ordered a card a week ago, and it's still not here. What do I do?",11,card_arrival
+29,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+i want to track the card you sent",card_arrival,i want to track the card you sent,11,card_arrival
+30,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card hasn't arrived yet.",card_arrival,My card hasn't arrived yet.,11,card_arrival
+31,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I was expecting my new card and am wondering why I haven't received it yet?",card_arrival,I was expecting my new card and am wondering why I haven't received it yet?,11,card_arrival
+32,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I know when my card will arrive?",card_arrival,How do I know when my card will arrive?,11,card_arrival
+33,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I'm still waiting on my card to be delivered.",card_arrival,I'm still waiting on my card to be delivered.,11,card_arrival
+34,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Does the card you sent have a way to track to it?",card_arrival,Does the card you sent have a way to track to it?,11,card_arrival
+35,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I ordered a card and I still haven't received it. It's been two weeks. What can I do?",card_arrival,I ordered a card and I still haven't received it. It's been two weeks. What can I do?,11,card_arrival
+36,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I'm starting to think my card is lost because it still hasn't arrived, can you help?",card_arrival,"I'm starting to think my card is lost because it still hasn't arrived, can you help?",11,card_arrival
+37,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Is there tracking info available?",card_arrival,Is there tracking info available?,11,card_arrival
+38,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What is the tracking number for the card you sent?",card_arrival,What is the tracking number for the card you sent?,11,card_arrival
+39,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Where is the tracking number for the card you sent me?",card_arrival,Where is the tracking number for the card you sent me?,11,card_arrival
+40,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I need my card now!",card_delivery_estimate,I need my card now!,12,card_delivery_estimate
+41,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+my card was not in the mail again can you advise?",card_delivery_estimate,my card was not in the mail again can you advise?,12,card_delivery_estimate
+42,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+i need my card quick",card_delivery_estimate,i need my card quick,12,card_delivery_estimate
+43,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long will it take to get to me?",card_delivery_estimate,How long will it take to get to me?,12,card_delivery_estimate
+44,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I'm just wondering when my card will get here.",card_delivery_estimate,I'm just wondering when my card will get here.,12,card_delivery_estimate
+45,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can you get me my card fast?",card_delivery_estimate,Can you get me my card fast?,12,card_delivery_estimate
+46,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long will it take to deliver something to US?",card_delivery_estimate,How long will it take to deliver something to US?,12,card_delivery_estimate
+47,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I live in the US, how long will it take for delivery?",card_delivery_estimate,"I live in the US, how long will it take for delivery?",12,card_delivery_estimate
+48,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+When can I expect my card to be delivered to the US?",card_delivery_estimate,When can I expect my card to be delivered to the US?,12,card_delivery_estimate
+49,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I need my card quickly",card_delivery_estimate,I need my card quickly,12,card_delivery_estimate
+50,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Does delivery to the US take long?",card_delivery_estimate,Does delivery to the US take long?,12,card_delivery_estimate
+51,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long will it take to arrive?",card_delivery_estimate,How long will it take to arrive?,12,card_delivery_estimate
+52,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can I have my card delivered on a specific day?",card_delivery_estimate,Can I have my card delivered on a specific day?,12,card_delivery_estimate
+53,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What is the difference between standard and express delivery?",card_delivery_estimate,What is the difference between standard and express delivery?,12,card_delivery_estimate
+54,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can it be delivered by a specific date?",card_delivery_estimate,Can it be delivered by a specific date?,12,card_delivery_estimate
+55,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+May I choose when it's delivered?",card_delivery_estimate,May I choose when it's delivered?,12,card_delivery_estimate
+56,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I need it delivered on a certain date.",card_delivery_estimate,I need it delivered on a certain date.,12,card_delivery_estimate
+57,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+When should I expect my card?",card_delivery_estimate,When should I expect my card?,12,card_delivery_estimate
+58,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long does it take to get my card? Can I choose when to receive it?",card_delivery_estimate,How long does it take to get my card? Can I choose when to receive it?,12,card_delivery_estimate
+59,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long will it take for the card to arrive?",card_delivery_estimate,How long will it take for the card to arrive?,12,card_delivery_estimate
+60,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How fast can you deliver?",card_delivery_estimate,How fast can you deliver?,12,card_delivery_estimate
+61,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Ordered awhile back, what is the ETA in the US?",card_delivery_estimate,"Ordered awhile back, what is the ETA in the US?",12,card_delivery_estimate
+62,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long should I expect for the card to arrive?",card_delivery_estimate,How long should I expect for the card to arrive?,12,card_delivery_estimate
+63,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Whats the delivery time to the United States?",card_delivery_estimate,Whats the delivery time to the United States?,12,card_delivery_estimate
+64,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+When will the card arrive?",card_delivery_estimate,When will the card arrive?,12,card_delivery_estimate
+65,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Send my card as soon as you are able to.",card_delivery_estimate,Send my card as soon as you are able to.,12,card_delivery_estimate
+66,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+When are cards delivered?",card_delivery_estimate,When are cards delivered?,12,card_delivery_estimate
+67,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long does shipping take to get to a US destination?",card_delivery_estimate,How long does shipping take to get to a US destination?,12,card_delivery_estimate
+68,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can I get my card expedited?",card_delivery_estimate,Can I get my card expedited?,12,card_delivery_estimate
+69,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long until my card is delivered?",card_delivery_estimate,How long until my card is delivered?,12,card_delivery_estimate
+70,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I need my card to come as soon as possible.",card_delivery_estimate,I need my card to come as soon as possible.,12,card_delivery_estimate
+71,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+When can I expect to receive my new card?",card_delivery_estimate,When can I expect to receive my new card?,12,card_delivery_estimate
+72,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I am waiting for my card to arrive.",card_delivery_estimate,I am waiting for my card to arrive.,12,card_delivery_estimate
+73,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I need my card as soon as possible.",card_delivery_estimate,I need my card as soon as possible.,12,card_delivery_estimate
+74,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I need it delivered by Saturday.",card_delivery_estimate,I need it delivered by Saturday.,12,card_delivery_estimate
+75,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What's the U.S. Delivery time?",card_delivery_estimate,What's the U.S. Delivery time?,12,card_delivery_estimate
+76,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+When will my card arrive?",card_delivery_estimate,When will my card arrive?,12,card_delivery_estimate
+77,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+can I choose a date for delivery?",card_delivery_estimate,can I choose a date for delivery?,12,card_delivery_estimate
+78,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can I make sure my card is delivered on a specific day?",card_delivery_estimate,Can I make sure my card is delivered on a specific day?,12,card_delivery_estimate
+79,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can I have it be delivered at a certain time?",card_delivery_estimate,Can I have it be delivered at a certain time?,12,card_delivery_estimate
+80,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I've tried my card a bunch of times and it never worked.",card_not_working,I've tried my card a bunch of times and it never worked.,14,card_not_working
+81,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I can't get my card to work.",card_not_working,I can't get my card to work.,14,card_not_working
+82,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card appears to be broken how can I fix it?",card_not_working,My card appears to be broken how can I fix it?,14,card_not_working
+83,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I know why my card isn't working?",card_not_working,How do I know why my card isn't working?,14,card_not_working
+84,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card broke.",card_not_working,My card broke.,14,card_not_working
+85,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card won't work.",card_not_working,My card won't work.,14,card_not_working
+86,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why is my card not working?",card_not_working,Why is my card not working?,14,card_not_working
+87,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can you please identify the problem with my bank card?",card_not_working,Can you please identify the problem with my bank card?,14,card_not_working
+88,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I unblock my card using the app?",card_not_working,How do I unblock my card using the app?,14,card_not_working
+89,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card does not work",card_not_working,My card does not work,14,card_not_working
+90,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How can I get my physical card to work?",card_not_working,How can I get my physical card to work?,14,card_not_working
+91,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can someone assist me by explaining why my card is not working?",card_not_working,Can someone assist me by explaining why my card is not working?,14,card_not_working
+92,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Help me.  My card doesn't work.",card_not_working,Help me.  My card doesn't work.,14,card_not_working
+93,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can a card stop working?",card_not_working,Can a card stop working?,14,card_not_working
+94,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I think my card is broken",card_not_working,I think my card is broken,14,card_not_working
+95,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why isn't my card working?",card_not_working,Why isn't my card working?,14,card_not_working
+96,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card isn't working anymore.",card_not_working,My card isn't working anymore.,14,card_not_working
+97,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card was declined today when eating and I need to know what's wrong.",card_not_working,My card was declined today when eating and I need to know what's wrong.,14,card_not_working
+98,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card doesn't work.",card_not_working,My card doesn't work.,14,card_not_working
+99,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How can I resolve a problem where my card won't go through at all?",card_not_working,How can I resolve a problem where my card won't go through at all?,14,card_not_working
+100,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My actual card isn't working.",card_not_working,My actual card isn't working.,14,card_not_working
+101,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Is my card broken?",card_not_working,Is my card broken?,14,card_not_working
+102,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I broke my card",card_not_working,I broke my card,14,card_not_working
+103,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card stopped working",card_not_working,My card stopped working,14,card_not_working
+104,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card is broke, what do I do?",card_not_working,"My card is broke, what do I do?",14,card_not_working
+105,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I tried using my card today and it's not working, can you help me?",card_not_working,"I tried using my card today and it's not working, can you help me?",14,card_not_working
+106,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card stopped working when I use it",card_not_working,My card stopped working when I use it,14,card_not_working
+107,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I can't use my card.",card_not_working,I can't use my card.,14,card_not_working
+108,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Need help with my card. It's not working.",card_not_working,Need help with my card. It's not working.,14,card_not_working
+109,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I cannot use my card.",card_not_working,I cannot use my card.,14,card_not_working
+110,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The card I've got seems to be broken.",card_not_working,The card I've got seems to be broken.,14,card_not_working
+111,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card isn't working",card_not_working,My card isn't working,14,card_not_working
+112,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card suddenly quit working.",card_not_working,My card suddenly quit working.,14,card_not_working
+113,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have tried to use my card several times and it does not work.",card_not_working,I have tried to use my card several times and it does not work.,14,card_not_working
+114,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The card I have doesn't work.",card_not_working,The card I have doesn't work.,14,card_not_working
+115,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card doesn't accept any transaction at all. What's wrong??",card_not_working,My card doesn't accept any transaction at all. What's wrong??,14,card_not_working
+116,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How can i check if my card is working?",card_not_working,How can i check if my card is working?,14,card_not_working
+117,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Nothing goes through on my card.",card_not_working,Nothing goes through on my card.,14,card_not_working
+118,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I find out why my card won't work?",card_not_working,How do I find out why my card won't work?,14,card_not_working
+119,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Could it be that I deactivated my card, its not working?",card_not_working,"Could it be that I deactivated my card, its not working?",14,card_not_working
+120,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My entire gym bag, including my wallet, was stolen out of my locker today. Everything in my wallet is gone - how do I block the card to make it can't be used?",lost_or_stolen_card,"My entire gym bag, including my wallet, was stolen out of my locker today. Everything in my wallet is gone - how do I block the card to make it can't be used?",41,lost_or_stolen_card
+121,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I can't find my card and think it may have been stolen.",lost_or_stolen_card,I can't find my card and think it may have been stolen.,41,lost_or_stolen_card
+122,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Someone stole my card. I need to report it stolen. I made a police report already, but how do I report it with you?",lost_or_stolen_card,"Someone stole my card. I need to report it stolen. I made a police report already, but how do I report it with you?",41,lost_or_stolen_card
+123,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I cant find my card, it's gone.",lost_or_stolen_card,"I cant find my card, it's gone.",41,lost_or_stolen_card
+124,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card is lost! What can I do?",lost_or_stolen_card,My card is lost! What can I do?,41,lost_or_stolen_card
+125,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I lost my card",lost_or_stolen_card,I lost my card,41,lost_or_stolen_card
+126,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Oh no!  I lost my card!  Help!",lost_or_stolen_card,Oh no!  I lost my card!  Help!,41,lost_or_stolen_card
+127,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I believe my card has been stolen, what can I do about this situation? It's urgent.",lost_or_stolen_card,"I believe my card has been stolen, what can I do about this situation? It's urgent.",41,lost_or_stolen_card
+128,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Help! Someone stole my card!",lost_or_stolen_card,Help! Someone stole my card!,41,lost_or_stolen_card
+129,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Help.  I have a stolen card!",lost_or_stolen_card,Help.  I have a stolen card!,41,lost_or_stolen_card
+130,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+card is lost, please help",lost_or_stolen_card,"card is lost, please help",41,lost_or_stolen_card
+131,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I report my card stolen?",lost_or_stolen_card,How do I report my card stolen?,41,lost_or_stolen_card
+132,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card is gone I think it was stolen",lost_or_stolen_card,My card is gone I think it was stolen,41,lost_or_stolen_card
+133,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Is a copy of the police report necessary for completing the report process?",lost_or_stolen_card,Is a copy of the police report necessary for completing the report process?,41,lost_or_stolen_card
+134,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I lost my wallet today with all my credit cards. Will you please block the card and send a replacement?",lost_or_stolen_card,I lost my wallet today with all my credit cards. Will you please block the card and send a replacement?,41,lost_or_stolen_card
+135,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I deal with a stolen card?",lost_or_stolen_card,How do I deal with a stolen card?,41,lost_or_stolen_card
+136,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can you freeze my card it was stolen",lost_or_stolen_card,Can you freeze my card it was stolen,41,lost_or_stolen_card
+137,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Help!  I can't find my card.",lost_or_stolen_card,Help!  I can't find my card.,41,lost_or_stolen_card
+138,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What should I do if I lost my card?",lost_or_stolen_card,What should I do if I lost my card?,41,lost_or_stolen_card
+139,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I need help with a lost card",lost_or_stolen_card,I need help with a lost card,41,lost_or_stolen_card
+140,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I think my card was stolen.",lost_or_stolen_card,I think my card was stolen.,41,lost_or_stolen_card
+141,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Someone stole my wallet earlier today, not sure exactly when, probably on Piccadilly circus. Can you check if there were any attempts to use the card and obviously block it?",lost_or_stolen_card,"Someone stole my wallet earlier today, not sure exactly when, probably on Piccadilly circus. Can you check if there were any attempts to use the card and obviously block it?",41,lost_or_stolen_card
+142,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I think I lost my card . I dont know how long it has been missing. Can you see if maybe someone else has been using it?",lost_or_stolen_card,I think I lost my card . I dont know how long it has been missing. Can you see if maybe someone else has been using it?,41,lost_or_stolen_card
+143,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How can I freeze a stolen card?",lost_or_stolen_card,How can I freeze a stolen card?,41,lost_or_stolen_card
+144,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What should I do if my card is missing?",lost_or_stolen_card,What should I do if my card is missing?,41,lost_or_stolen_card
+145,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My bags were stolen. I need a new card but need to cancel the stolen one.",lost_or_stolen_card,My bags were stolen. I need a new card but need to cancel the stolen one.,41,lost_or_stolen_card
+146,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Somehow I am missing my card.  What should I do?",lost_or_stolen_card,Somehow I am missing my card.  What should I do?,41,lost_or_stolen_card
+147,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card was taken from me",lost_or_stolen_card,My card was taken from me,41,lost_or_stolen_card
+148,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card got lost.",lost_or_stolen_card,My card got lost.,41,lost_or_stolen_card
+149,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Some idiot stole my card.",lost_or_stolen_card,Some idiot stole my card.,41,lost_or_stolen_card
+150,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I report my card lost or stolen?",lost_or_stolen_card,How do I report my card lost or stolen?,41,lost_or_stolen_card
+151,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card is lost! What do I do now?",lost_or_stolen_card,My card is lost! What do I do now?,41,lost_or_stolen_card
+152,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I'm in Spain and my stuff has been stolen. My card was with it and I need a new one shipped and the old one frozen.",lost_or_stolen_card,I'm in Spain and my stuff has been stolen. My card was with it and I need a new one shipped and the old one frozen.,41,lost_or_stolen_card
+153,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I believe my credit card was stolen.",lost_or_stolen_card,I believe my credit card was stolen.,41,lost_or_stolen_card
+154,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I report a stolen card?",lost_or_stolen_card,How do I report a stolen card?,41,lost_or_stolen_card
+155,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Somebody has stolen my card, I need help please.",lost_or_stolen_card,"Somebody has stolen my card, I need help please.",41,lost_or_stolen_card
+156,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I cannot find my credit card.",lost_or_stolen_card,I cannot find my credit card.,41,lost_or_stolen_card
+157,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Are you able to locate my card?",lost_or_stolen_card,Are you able to locate my card?,41,lost_or_stolen_card
+158,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card got stolen!",lost_or_stolen_card,My card got stolen!,41,lost_or_stolen_card
+159,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Help me please!  My card was stolen!",lost_or_stolen_card,Help me please!  My card was stolen!,41,lost_or_stolen_card
+160,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I payed with a card and was charged an extra fee",card_payment_fee_charged,I payed with a card and was charged an extra fee,15,card_payment_fee_charged
+161,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I was charged a fee after using my card and I shouldn't have been.",card_payment_fee_charged,I was charged a fee after using my card and I shouldn't have been.,15,card_payment_fee_charged
+162,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Is there a reason I was charged a fee for using my card as payment? I've never had an extra fee before.",card_payment_fee_charged,Is there a reason I was charged a fee for using my card as payment? I've never had an extra fee before.,15,card_payment_fee_charged
+163,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I show another charge on my card from when I used it, why?",card_payment_fee_charged,"I show another charge on my card from when I used it, why?",15,card_payment_fee_charged
+164,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why do I get charged additional fees on some payments, but not others?",card_payment_fee_charged,"Why do I get charged additional fees on some payments, but not others?",15,card_payment_fee_charged
+165,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I used my card for a purchase and was charged a fee",card_payment_fee_charged,I used my card for a purchase and was charged a fee,15,card_payment_fee_charged
+166,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why was I charged for card payment?",card_payment_fee_charged,Why was I charged for card payment?,15,card_payment_fee_charged
+167,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There is an unauthorized fee.",card_payment_fee_charged,There is an unauthorized fee.,15,card_payment_fee_charged
+168,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I would appreciate that someone let me know when there is an extra charge for payments. I was checking the app earlier and saying a charge on one of my payments that was additional that no one made me aware of before.",card_payment_fee_charged,I would appreciate that someone let me know when there is an extra charge for payments. I was checking the app earlier and saying a charge on one of my payments that was additional that no one made me aware of before.,15,card_payment_fee_charged
+169,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why was I charged an extra fee when paying with my card?",card_payment_fee_charged,Why was I charged an extra fee when paying with my card?,15,card_payment_fee_charged
+170,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why did I have to pay extra because I paid with card?",card_payment_fee_charged,Why did I have to pay extra because I paid with card?,15,card_payment_fee_charged
+171,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why are there fees for card usage?",card_payment_fee_charged,Why are there fees for card usage?,15,card_payment_fee_charged
+172,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+im not sure what this charge is for",card_payment_fee_charged,im not sure what this charge is for,15,card_payment_fee_charged
+173,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What is the fee charged with this card payment?",card_payment_fee_charged,What is the fee charged with this card payment?,15,card_payment_fee_charged
+174,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+When would my card be charged an extra fee for a transaction?",card_payment_fee_charged,When would my card be charged an extra fee for a transaction?,15,card_payment_fee_charged
+175,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why did I have to pay more when I do it with my card?",card_payment_fee_charged,Why did I have to pay more when I do it with my card?,15,card_payment_fee_charged
+176,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I made a card payment and a fee is showing up?",card_payment_fee_charged,I made a card payment and a fee is showing up?,15,card_payment_fee_charged
+177,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have been charged a fee for paying with card",card_payment_fee_charged,I have been charged a fee for paying with card,15,card_payment_fee_charged
+178,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What is the fee on my card payment?",card_payment_fee_charged,What is the fee on my card payment?,15,card_payment_fee_charged
+179,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why would I be charged a fee for card payment?",card_payment_fee_charged,Why would I be charged a fee for card payment?,15,card_payment_fee_charged
+180,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Will I always be charged a fee for using my card?",card_payment_fee_charged,Will I always be charged a fee for using my card?,15,card_payment_fee_charged
+181,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can I check somewhere if there will be a fee on my payment or not? Seems you are charging in some cases, what's the pattern there?",card_payment_fee_charged,"Can I check somewhere if there will be a fee on my payment or not? Seems you are charging in some cases, what's the pattern there?",15,card_payment_fee_charged
+182,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Paying in card resulted in a fee",card_payment_fee_charged,Paying in card resulted in a fee,15,card_payment_fee_charged
+183,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I paid with card and I think there was a fee applied.",card_payment_fee_charged,I paid with card and I think there was a fee applied.,15,card_payment_fee_charged
+184,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+So what items  actually come  with  extra  fees",card_payment_fee_charged,So what items  actually come  with  extra  fees,15,card_payment_fee_charged
+185,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I avoid getting charged a fee on my card?",card_payment_fee_charged,How do I avoid getting charged a fee on my card?,15,card_payment_fee_charged
+186,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Is there a fee when you pay with your card?",card_payment_fee_charged,Is there a fee when you pay with your card?,15,card_payment_fee_charged
+187,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have been charged with a fee for paying with my card.",card_payment_fee_charged,I have been charged with a fee for paying with my card.,15,card_payment_fee_charged
+188,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+For the first time I got a fee on my account. How do I know when you charge these fees?",card_payment_fee_charged,For the first time I got a fee on my account. How do I know when you charge these fees?,15,card_payment_fee_charged
+189,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Someone needs to make me aware when there are extra charges for payments. I happened to be looking at the app earlier and noticed a charge associated to a payment that was extra that no one made me aware of before at all.",card_payment_fee_charged,Someone needs to make me aware when there are extra charges for payments. I happened to be looking at the app earlier and noticed a charge associated to a payment that was extra that no one made me aware of before at all.,15,card_payment_fee_charged
+190,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Is using my card free?",card_payment_fee_charged,Is using my card free?,15,card_payment_fee_charged
+191,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why was I charged an extra fee when using a card?",card_payment_fee_charged,Why was I charged an extra fee when using a card?,15,card_payment_fee_charged
+192,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What fees apply when using a card?",card_payment_fee_charged,What fees apply when using a card?,15,card_payment_fee_charged
+193,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why do you charge for payments? Why aren't your charges clearly laid out in the agreement?",card_payment_fee_charged,Why do you charge for payments? Why aren't your charges clearly laid out in the agreement?,15,card_payment_fee_charged
+194,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why was I charged a fee when I paid with card?",card_payment_fee_charged,Why was I charged a fee when I paid with card?,15,card_payment_fee_charged
+195,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There is a fee on my account. Why?",card_payment_fee_charged,There is a fee on my account. Why?,15,card_payment_fee_charged
+196,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why do you charge fees on card payments?",card_payment_fee_charged,Why do you charge fees on card payments?,15,card_payment_fee_charged
+197,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I was charged a fee for a card payment. Why?",card_payment_fee_charged,I was charged a fee for a card payment. Why?,15,card_payment_fee_charged
+198,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why was a charged a fee for using the card?",card_payment_fee_charged,Why was a charged a fee for using the card?,15,card_payment_fee_charged
+199,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+They charged me for paying with my card.",card_payment_fee_charged,They charged me for paying with my card.,15,card_payment_fee_charged
+200,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have a strange payment in my statement",card_payment_not_recognised,I have a strange payment in my statement,16,card_payment_not_recognised
+201,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There is a charge on my card that I did not make",card_payment_not_recognised,There is a charge on my card that I did not make,16,card_payment_not_recognised
+202,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I saw a payment i did not do",card_payment_not_recognised,I saw a payment i did not do,16,card_payment_not_recognised
+203,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There is a payment that is not mine in the app.  Please advise/",card_payment_not_recognised,There is a payment that is not mine in the app.  Please advise/,16,card_payment_not_recognised
+204,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+An unauthorized payment is in my app",card_payment_not_recognised,An unauthorized payment is in my app,16,card_payment_not_recognised
+205,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I did not make this card payment.",card_payment_not_recognised,I did not make this card payment.,16,card_payment_not_recognised
+206,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What should I do if I see a payment I didn't make?",card_payment_not_recognised,What should I do if I see a payment I didn't make?,16,card_payment_not_recognised
+207,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I found an unauthorized card payment",card_payment_not_recognised,I found an unauthorized card payment,16,card_payment_not_recognised
+208,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+there is a transaction on my account that i didnt make",card_payment_not_recognised,there is a transaction on my account that i didnt make,16,card_payment_not_recognised
+209,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I don't recall making that payment?",card_payment_not_recognised,I don't recall making that payment?,16,card_payment_not_recognised
+210,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There are some payments with my card that I don't know where they are coming from. Just checked today and it's been since a couple days as well! What to I do? Can I revert this retrospectively? My card needs to be frozen immediately as well!",card_payment_not_recognised,There are some payments with my card that I don't know where they are coming from. Just checked today and it's been since a couple days as well! What to I do? Can I revert this retrospectively? My card needs to be frozen immediately as well!,16,card_payment_not_recognised
+211,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Has someone accessed my card there are payments I did not make that are showing up on the app.",card_payment_not_recognised,Has someone accessed my card there are payments I did not make that are showing up on the app.,16,card_payment_not_recognised
+212,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There are some strange charges on my card that I didn't make from a few days ago.  Is my card stolen and if so should I cancel it?  Will I get refunded the charges?",card_payment_not_recognised,There are some strange charges on my card that I didn't make from a few days ago.  Is my card stolen and if so should I cancel it?  Will I get refunded the charges?,16,card_payment_not_recognised
+213,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why would there be a payment on my account I don't recognize?",card_payment_not_recognised,Why would there be a payment on my account I don't recognize?,16,card_payment_not_recognised
+214,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have a payment I didn't do",card_payment_not_recognised,I have a payment I didn't do,16,card_payment_not_recognised
+215,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There is a payment that is not mine.",card_payment_not_recognised,There is a payment that is not mine.,16,card_payment_not_recognised
+216,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can you freeze my account?  I just saw there are transactions on my account that I don't recognize.  How can I fix this?",card_payment_not_recognised,Can you freeze my account?  I just saw there are transactions on my account that I don't recognize.  How can I fix this?,16,card_payment_not_recognised
+217,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There is a card payment I do not recognise.",card_payment_not_recognised,There is a card payment I do not recognise.,16,card_payment_not_recognised
+218,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I don't recognise a card payment",card_payment_not_recognised,I don't recognise a card payment,16,card_payment_not_recognised
+219,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Payment i did not do",card_payment_not_recognised,Payment i did not do,16,card_payment_not_recognised
+220,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Please put a freeze on my card,  I am worried there has been some payments on it and I don't know what for.",card_payment_not_recognised,"Please put a freeze on my card,  I am worried there has been some payments on it and I don't know what for.",16,card_payment_not_recognised
+221,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I think my statement has a fraudulent charge",card_payment_not_recognised,I think my statement has a fraudulent charge,16,card_payment_not_recognised
+222,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I'm concerned about a payment that has recently been made on my card.  I do not recognize the name that the transaction went to, can you help me?",card_payment_not_recognised,"I'm concerned about a payment that has recently been made on my card.  I do not recognize the name that the transaction went to, can you help me?",16,card_payment_not_recognised
+223,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What should I do to get transactions off of my account if I didn't make them?  My card must have been compromised and I need to freeze it asap!",card_payment_not_recognised,What should I do to get transactions off of my account if I didn't make them?  My card must have been compromised and I need to freeze it asap!,16,card_payment_not_recognised
+224,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have a payment listed in error.",card_payment_not_recognised,I have a payment listed in error.,16,card_payment_not_recognised
+225,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What can I do about some payments on my card I didn't make.  Please put a freeze on my card till we can figure this out.",card_payment_not_recognised,What can I do about some payments on my card I didn't make.  Please put a freeze on my card till we can figure this out.,16,card_payment_not_recognised
+226,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I'm not familiar with a card payment.",card_payment_not_recognised,I'm not familiar with a card payment.,16,card_payment_not_recognised
+227,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have an unauthorized transaction on my statement",card_payment_not_recognised,I have an unauthorized transaction on my statement,16,card_payment_not_recognised
+228,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There is a payment in the App that is not mine.",card_payment_not_recognised,There is a payment in the App that is not mine.,16,card_payment_not_recognised
+229,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I don't know where this transaction came from?",card_payment_not_recognised,I don't know where this transaction came from?,16,card_payment_not_recognised
+230,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I see a charge on my account that I don't recall making. I feel like my account may have been compromised.",card_payment_not_recognised,I see a charge on my account that I don't recall making. I feel like my account may have been compromised.,16,card_payment_not_recognised
+231,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I know I didn't make this payment showing up on my card, I don't remember this person at all.",card_payment_not_recognised,"I know I didn't make this payment showing up on my card, I don't remember this person at all.",16,card_payment_not_recognised
+232,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Somebody used my card to make a purchase",card_payment_not_recognised,Somebody used my card to make a purchase,16,card_payment_not_recognised
+233,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There's a recent charge on my card that I know I didn't make because I've never seen the name before. Can we investigate this?",card_payment_not_recognised,There's a recent charge on my card that I know I didn't make because I've never seen the name before. Can we investigate this?,16,card_payment_not_recognised
+234,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Some of my card payments look different than where I purchased products from. Why is that?",card_payment_not_recognised,Some of my card payments look different than where I purchased products from. Why is that?,16,card_payment_not_recognised
+235,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There is a strange payment on my statement. What should I do?",card_payment_not_recognised,There is a strange payment on my statement. What should I do?,16,card_payment_not_recognised
+236,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I think there has been a purchase made that wasn't by me.",card_payment_not_recognised,I think there has been a purchase made that wasn't by me.,16,card_payment_not_recognised
+237,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+There is a fraudulent charge on my statement.",card_payment_not_recognised,There is a fraudulent charge on my statement.,16,card_payment_not_recognised
+238,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What is the payment in my account that I did not do?",card_payment_not_recognised,What is the payment in my account that I did not do?,16,card_payment_not_recognised
+239,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+In my statement there is a payment that is I do not recognize",card_payment_not_recognised,In my statement there is a payment that is I do not recognize,16,card_payment_not_recognised
+240,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card payment is still on hold, why is it so?",pending_card_payment,"My card payment is still on hold, why is it so?",45,pending_card_payment
+241,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why is my payment pending?",pending_card_payment,Why is my payment pending?,45,pending_card_payment
+242,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card payment is still pending.",pending_card_payment,My card payment is still pending.,45,pending_card_payment
+243,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do i finalize a card payment",pending_card_payment,How do i finalize a card payment,45,pending_card_payment
+244,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why is my card payment showing as pending?",pending_card_payment,Why is my card payment showing as pending?,45,pending_card_payment
+245,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why has my payment not gone through?",pending_card_payment,Why has my payment not gone through?,45,pending_card_payment
+246,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Please help me to know the status of my card payment as its pending since a while.",pending_card_payment,Please help me to know the status of my card payment as its pending since a while.,45,pending_card_payment
+247,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I recently made a payment, and it is showing up in my account as ""pending"". What does that mean?",pending_card_payment,"I recently made a payment, and it is showing up in my account as ""pending"". What does that mean?",45,pending_card_payment
+248,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What does it mean by pending payment?",pending_card_payment,What does it mean by pending payment?,45,pending_card_payment
+249,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+When will my card payment be done pending?",pending_card_payment,When will my card payment be done pending?,45,pending_card_payment
+250,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I made this payment days ago so why hasn't it gone through yet?",pending_card_payment,I made this payment days ago so why hasn't it gone through yet?,45,pending_card_payment
+251,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I am seeing pending from the card payment I made.",pending_card_payment,I am seeing pending from the card payment I made.,45,pending_card_payment
+252,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card payment is showing pending.",pending_card_payment,My card payment is showing pending.,45,pending_card_payment
+253,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I bought some stuff this morning but the payment shows as pending",pending_card_payment,I bought some stuff this morning but the payment shows as pending,45,pending_card_payment
+254,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I am waiting for a payment to go through.",pending_card_payment,I am waiting for a payment to go through.,45,pending_card_payment
+255,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long does an item I bought show as pending?",pending_card_payment,How long does an item I bought show as pending?,45,pending_card_payment
+256,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What is a pending payment?",pending_card_payment,What is a pending payment?,45,pending_card_payment
+257,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I would like to know why my purchases from this morning are still pending.",pending_card_payment,I would like to know why my purchases from this morning are still pending.,45,pending_card_payment
+258,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why is there a pending transaction on my card?",pending_card_payment,Why is there a pending transaction on my card?,45,pending_card_payment
+259,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card payment is pending.",pending_card_payment,My card payment is pending.,45,pending_card_payment
+260,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why is a payment showing up on my card as pending?",pending_card_payment,Why is a payment showing up on my card as pending?,45,pending_card_payment
+261,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I made a purchase and it says it's pending. What does that mean?",pending_card_payment,I made a purchase and it says it's pending. What does that mean?,45,pending_card_payment
+262,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long do card transactions take to clear?",pending_card_payment,How long do card transactions take to clear?,45,pending_card_payment
+263,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+what does pending mean?",pending_card_payment,what does pending mean?,45,pending_card_payment
+264,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long will this card payment stay pending?",pending_card_payment,How long will this card payment stay pending?,45,pending_card_payment
+265,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My payment still hasn't processed!",pending_card_payment,My payment still hasn't processed!,45,pending_card_payment
+266,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I was double charged, and the second charge is showing as ""pending"". How long will it be before I get my money back once the second charge has been refunded?",pending_card_payment,"I was double charged, and the second charge is showing as ""pending"". How long will it be before I get my money back once the second charge has been refunded?",45,pending_card_payment
+267,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have waited 15 days, but my payment still hasn't cleared.",pending_card_payment,"I have waited 15 days, but my payment still hasn't cleared.",45,pending_card_payment
+268,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why would I have a pending payment?",pending_card_payment,Why would I have a pending payment?,45,pending_card_payment
+269,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Explain what the pending payment means?",pending_card_payment,Explain what the pending payment means?,45,pending_card_payment
+270,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why are my payments showing pending?",pending_card_payment,Why are my payments showing pending?,45,pending_card_payment
+271,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card is still pending, I've been waiting a while.",pending_card_payment,"My card is still pending, I've been waiting a while.",45,pending_card_payment
+272,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long does it take for a payment to go thru? I made one a few days ago and it has not been cleared yet.",pending_card_payment,How long does it take for a payment to go thru? I made one a few days ago and it has not been cleared yet.,45,pending_card_payment
+273,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I bought some things this morning but the payment shows that it is pending",pending_card_payment,I bought some things this morning but the payment shows that it is pending,45,pending_card_payment
+274,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long does it take to authorise a payment?",pending_card_payment,How long does it take to authorise a payment?,45,pending_card_payment
+275,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I had a payment that I made and it's been some amount of time and would like to know when it's suppose to go though.",pending_card_payment,I had a payment that I made and it's been some amount of time and would like to know when it's suppose to go though.,45,pending_card_payment
+276,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What does a pending transaction mean?",pending_card_payment,What does a pending transaction mean?,45,pending_card_payment
+277,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have paid by my card but payment is still its coming as pending. I think there is some issue please check and let me know when the status will complete.",pending_card_payment,I have paid by my card but payment is still its coming as pending. I think there is some issue please check and let me know when the status will complete.,45,pending_card_payment
+278,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have a pending payment in my account that I paid a while back ago and it still hasnt gone through. Why would it show pending for so long?",pending_card_payment,I have a pending payment in my account that I paid a while back ago and it still hasnt gone through. Why would it show pending for so long?,45,pending_card_payment
+279,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have a pending payment from stuff I bought this morning.",pending_card_payment,I have a pending payment from stuff I bought this morning.,45,pending_card_payment
+280,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My credit card was declined.",declined_card_payment,My credit card was declined.,25,declined_card_payment
+281,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The new card that was just sent to me was declined multiple times yesterday when I tried to use it at a restaurant to pay for my dinner.  I am really disappointed  and embarrassed that my card was denied when I tried to use it to pay for my friend's birthday dinner.",declined_card_payment,The new card that was just sent to me was declined multiple times yesterday when I tried to use it at a restaurant to pay for my dinner.  I am really disappointed  and embarrassed that my card was denied when I tried to use it to pay for my friend's birthday dinner.,25,declined_card_payment
+282,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why was my card payment declined?",declined_card_payment,Why was my card payment declined?,25,declined_card_payment
+283,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I was trying to purchase something at the store today and my card has been declined.  Why has this happened?",declined_card_payment,I was trying to purchase something at the store today and my card has been declined.  Why has this happened?,25,declined_card_payment
+284,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My payment has been declined, I thought this issue was fixed!",declined_card_payment,"My payment has been declined, I thought this issue was fixed!",25,declined_card_payment
+285,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card was declined in a shop",declined_card_payment,My card was declined in a shop,25,declined_card_payment
+286,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why did it decline my payment?",declined_card_payment,Why did it decline my payment?,25,declined_card_payment
+287,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card declined",declined_card_payment,My card declined,25,declined_card_payment
+288,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Can you look at my account ans see why my card was declined",declined_card_payment,Can you look at my account ans see why my card was declined,25,declined_card_payment
+289,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I was out today looking forward to pay with my new card, turns out the payment just kept getting declined. This is really sad, what's going on?",declined_card_payment,"I was out today looking forward to pay with my new card, turns out the payment just kept getting declined. This is really sad, what's going on?",25,declined_card_payment
+290,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why was a transaction on my card declined?",declined_card_payment,Why was a transaction on my card declined?,25,declined_card_payment
+291,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My new card keeps getting declined. I was very excited to use it for the first time today. Why is this doing this?",declined_card_payment,My new card keeps getting declined. I was very excited to use it for the first time today. Why is this doing this?,25,declined_card_payment
+292,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My latest payment was declined, I was told everything was back to working order. What happened?",declined_card_payment,"My latest payment was declined, I was told everything was back to working order. What happened?",25,declined_card_payment
+293,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I know I have enough funds in my account but my card payment hasn't worked for some reason. What do I do?",declined_card_payment,I know I have enough funds in my account but my card payment hasn't worked for some reason. What do I do?,25,declined_card_payment
+294,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why doesn't the card payment work",declined_card_payment,Why doesn't the card payment work,25,declined_card_payment
+295,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I'm really stuck. I don't know why but my card payment has not gone through.",declined_card_payment,I'm really stuck. I don't know why but my card payment has not gone through.,25,declined_card_payment
+296,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have a card payment that was declined, but why?",declined_card_payment,"I have a card payment that was declined, but why?",25,declined_card_payment
+297,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Do you know why my card payment did not work?",declined_card_payment,Do you know why my card payment did not work?,25,declined_card_payment
+298,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Something is wrong with my payment account since it has been declined",declined_card_payment,Something is wrong with my payment account since it has been declined,25,declined_card_payment
+299,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why are you declining my payment? Everything was fine.",declined_card_payment,Why are you declining my payment? Everything was fine.,25,declined_card_payment
+300,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I don't know why my payment didn't work.",declined_card_payment,I don't know why my payment didn't work.,25,declined_card_payment
+301,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card payment did not work.",declined_card_payment,My card payment did not work.,25,declined_card_payment
+302,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why is my debit card being declined when I have money?",declined_card_payment,Why is my debit card being declined when I have money?,25,declined_card_payment
+303,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card was not accepted.",declined_card_payment,My card was not accepted.,25,declined_card_payment
+304,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have no idea why my card payment did not work.",declined_card_payment,I have no idea why my card payment did not work.,25,declined_card_payment
+305,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card payment didn't work, can you help?",declined_card_payment,"My card payment didn't work, can you help?",25,declined_card_payment
+306,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card was rejected at the store for some reason, can you look into this for me?",declined_card_payment,"My card was rejected at the store for some reason, can you look into this for me?",25,declined_card_payment
+307,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Please explain why my card was declined?",declined_card_payment,Please explain why my card was declined?,25,declined_card_payment
+308,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Hello, I am facing the issue with my new card as payments are declining again and again. Please help me in this issue.",declined_card_payment,"Hello, I am facing the issue with my new card as payments are declining again and again. Please help me in this issue.",25,declined_card_payment
+309,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Do you know why my card payment is declined?",declined_card_payment,Do you know why my card payment is declined?,25,declined_card_payment
+310,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why was my Payment declined",declined_card_payment,Why was my Payment declined,25,declined_card_payment
+311,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+They declined my card payment.",declined_card_payment,They declined my card payment.,25,declined_card_payment
+312,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why has my card payment been declined?",declined_card_payment,Why has my card payment been declined?,25,declined_card_payment
+313,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I finally got my new card and was very excited to use it today. However, my payment kept declining. What is happening?",declined_card_payment,"I finally got my new card and was very excited to use it today. However, my payment kept declining. What is happening?",25,declined_card_payment
+314,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card payment did not complete.",declined_card_payment,My card payment did not complete.,25,declined_card_payment
+315,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card didn't work in one of the shops.",declined_card_payment,My card didn't work in one of the shops.,25,declined_card_payment
+316,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Card payment declined?",declined_card_payment,Card payment declined?,25,declined_card_payment
+317,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I tried using my card and it kept getting declined, Why?",declined_card_payment,"I tried using my card and it kept getting declined, Why?",25,declined_card_payment
+318,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do you fix  my card payment?",declined_card_payment,How do you fix  my card payment?,25,declined_card_payment
+319,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why do you keep declining my payment? I tried several times already with this card and it's just not working",declined_card_payment,Why do you keep declining my payment? I tried several times already with this card and it's just not working,25,declined_card_payment
+320,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What do I do if an ATM ""stole"" my card?",card_swallowed,"What do I do if an ATM ""stole"" my card?",18,card_swallowed
+321,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I retrieve my card from the machine?",card_swallowed,How do I retrieve my card from the machine?,18,card_swallowed
+322,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I was retrieving money and my card wouldn't remove.",card_swallowed,I was retrieving money and my card wouldn't remove.,18,card_swallowed
+323,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What do I do since the machine swallowed my card. I need one.",card_swallowed,What do I do since the machine swallowed my card. I need one.,18,card_swallowed
+324,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+HOw do I get my card back after the ATM has pulled it in?",card_swallowed,HOw do I get my card back after the ATM has pulled it in?,18,card_swallowed
+325,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Atm took my card",card_swallowed,Atm took my card,18,card_swallowed
+326,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Is there a way I can get my ATM card back from the machine?",card_swallowed,Is there a way I can get my ATM card back from the machine?,18,card_swallowed
+327,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I think the atm ate my card.",card_swallowed,I think the atm ate my card.,18,card_swallowed
+328,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The ATM didn't give me the card back!",card_swallowed,The ATM didn't give me the card back!,18,card_swallowed
+329,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How can I get my card out of the damn ATM?",card_swallowed,How can I get my card out of the damn ATM?,18,card_swallowed
+330,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The atm won't give my card back!",card_swallowed,The atm won't give my card back!,18,card_swallowed
+331,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How can I get my card back out?",card_swallowed,How can I get my card back out?,18,card_swallowed
+332,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The ATM machine stole my card.",card_swallowed,The ATM machine stole my card.,18,card_swallowed
+333,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The ATM at Metro bank on High St. Kensington swallowed my card. How do I get it back?",card_swallowed,The ATM at Metro bank on High St. Kensington swallowed my card. How do I get it back?,18,card_swallowed
+334,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My ATM got stuck and I'm not sure what to do.",card_swallowed,My ATM got stuck and I'm not sure what to do.,18,card_swallowed
+335,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The ATM ate my card.",card_swallowed,The ATM ate my card.,18,card_swallowed
+336,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The ATM won't give me my card back.",card_swallowed,The ATM won't give me my card back.,18,card_swallowed
+337,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card was confiscated by an ATM. How do I get my card back?",card_swallowed,My card was confiscated by an ATM. How do I get my card back?,18,card_swallowed
+338,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What do I do if the ATM ate my card?",card_swallowed,What do I do if the ATM ate my card?,18,card_swallowed
+339,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+ATM still has my card",card_swallowed,ATM still has my card,18,card_swallowed
+340,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What do I do if an ATM ate my card?",card_swallowed,What do I do if an ATM ate my card?,18,card_swallowed
+341,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What happens if the ATM doesn't give me back my card?",card_swallowed,What happens if the ATM doesn't give me back my card?,18,card_swallowed
+342,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I can't pull my card out of the ATM. Help me.",card_swallowed,I can't pull my card out of the ATM. Help me.,18,card_swallowed
+343,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have a problem!  The ATM stole my card!",card_swallowed,I have a problem!  The ATM stole my card!,18,card_swallowed
+344,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why would an ATM swallow my card?",card_swallowed,Why would an ATM swallow my card?,18,card_swallowed
+345,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card was taken by the ATM.",card_swallowed,My card was taken by the ATM.,18,card_swallowed
+346,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Help!  The atm won't give me my card back.",card_swallowed,Help!  The atm won't give me my card back.,18,card_swallowed
+347,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The stupid machine just swallowed my card!! I need a new one ASAP",card_swallowed,The stupid machine just swallowed my card!! I need a new one ASAP,18,card_swallowed
+348,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I retrieve a trapped card from a ATM?",card_swallowed,How do I retrieve a trapped card from a ATM?,18,card_swallowed
+349,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card is stuck in the ATM, what can I do?",card_swallowed,"My card is stuck in the ATM, what can I do?",18,card_swallowed
+350,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I was getting cash and can't get my card back.",card_swallowed,I was getting cash and can't get my card back.,18,card_swallowed
+351,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+If my card is trapped in the ATM, what do I do?",card_swallowed,"If my card is trapped in the ATM, what do I do?",18,card_swallowed
+352,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+My card has been swallowed by an ATM",card_swallowed,My card has been swallowed by an ATM,18,card_swallowed
+353,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I was taking out funds and was unable to regain my card.",card_swallowed,I was taking out funds and was unable to regain my card.,18,card_swallowed
+354,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What should I do with my atm that got stuck?",card_swallowed,What should I do with my atm that got stuck?,18,card_swallowed
+355,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The ATM at Metro bank on High St. Kensington didn't return my card. What should I do now that the bank is closed?",card_swallowed,The ATM at Metro bank on High St. Kensington didn't return my card. What should I do now that the bank is closed?,18,card_swallowed
+356,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+The ATM won't give back my card",card_swallowed,The ATM won't give back my card,18,card_swallowed
+357,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I was at an ATM and it swallowed my card.",card_swallowed,I was at an ATM and it swallowed my card.,18,card_swallowed
+358,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+WTF??? I tried to withdraw some money at a Metro bank on High St. Kensington and without any notice it disappeared in the machine. The bank was already closed so I couldn't do anything. How do I get it back?",card_swallowed,WTF??? I tried to withdraw some money at a Metro bank on High St. Kensington and without any notice it disappeared in the machine. The bank was already closed so I couldn't do anything. How do I get it back?,18,card_swallowed
+359,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What happens if my card is stuck in the ATM?",card_swallowed,What happens if my card is stuck in the ATM?,18,card_swallowed
+360,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Could you please activate my card",activate_my_card,Could you please activate my card,0,activate_my_card
+361,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I need to activate my card can you do that now?",activate_my_card,I need to activate my card can you do that now?,0,activate_my_card
+362,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What do I need to do to activate my new card?",activate_my_card,What do I need to do to activate my new card?,0,activate_my_card
+363,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Tell me how to go about activating my new card?",activate_my_card,Tell me how to go about activating my new card?,0,activate_my_card
+364,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How can I activate my card so I can start using it?",activate_my_card,How can I activate my card so I can start using it?,0,activate_my_card
+365,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How long will it take to activate my new card?",activate_my_card,How long will it take to activate my new card?,0,activate_my_card
+366,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What's the right way to activate my card?",activate_my_card,What's the right way to activate my card?,0,activate_my_card
+367,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I received my new card, how is it activated?",activate_my_card,"I received my new card, how is it activated?",0,activate_my_card
+368,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Is there a way my new card can be renewed?",activate_my_card,Is there a way my new card can be renewed?,0,activate_my_card
+369,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I activate a card I received?",activate_my_card,How do I activate a card I received?,0,activate_my_card
+370,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Why can't I activate my card?",activate_my_card,Why can't I activate my card?,0,activate_my_card
+371,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What is the process of card activation?",activate_my_card,What is the process of card activation?,0,activate_my_card
+372,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+WHAT CAN I DO AFTER THE CARD MISSING",activate_my_card,WHAT CAN I DO AFTER THE CARD MISSING,0,activate_my_card
+373,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I got my new card where do I go to activate it?",activate_my_card,I got my new card where do I go to activate it?,0,activate_my_card
+374,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Would like to use my card and need to activate it first.  Can you help me do this?",activate_my_card,Would like to use my card and need to activate it first.  Can you help me do this?,0,activate_my_card
+375,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I need help activating my new card.",activate_my_card,I need help activating my new card.,0,activate_my_card
+376,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+how to activate card?",activate_my_card,how to activate card?,0,activate_my_card
+377,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Please, activate my card",activate_my_card,"Please, activate my card",0,activate_my_card
+378,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I tried activating my bill of fare and it didn't workplace",activate_my_card,I tried activating my bill of fare and it didn't workplace,0,activate_my_card
+379,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I just got my card and want to use it, how do I activate my card?",activate_my_card,"I just got my card and want to use it, how do I activate my card?",0,activate_my_card
+380,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I have a new card and I want to activate it",activate_my_card,I have a new card and I want to activate it,0,activate_my_card
+381,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Assist me please with card activation.",activate_my_card,Assist me please with card activation.,0,activate_my_card
+382,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I need help with activating my card",activate_my_card,I need help with activating my card,0,activate_my_card
+383,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How can I start using my card?",activate_my_card,How can I start using my card?,0,activate_my_card
+384,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+Activating my card",activate_my_card,Activating my card,0,activate_my_card
+385,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+When will my card be activated?",activate_my_card,When will my card be activated?,0,activate_my_card
+386,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How can I activate my card>",activate_my_card,How can I activate my card>,0,activate_my_card
+387,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What are the steps in order to activate my new card?",activate_my_card,What are the steps in order to activate my new card?,0,activate_my_card
+388,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I go about activating my new card?",activate_my_card,How do I go about activating my new card?,0,activate_my_card
+389,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What is the activation process on my new card?",activate_my_card,What is the activation process on my new card?,0,activate_my_card
+390,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I would like to get help from someone with activating my card.",activate_my_card,I would like to get help from someone with activating my card.,0,activate_my_card
+391,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What is the process for activating my card?",activate_my_card,What is the process for activating my card?,0,activate_my_card
+392,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I use my new card?",activate_my_card,How do I use my new card?,0,activate_my_card
+393,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I got my new card but I am not sure if it need s activated and how?",activate_my_card,I got my new card but I am not sure if it need s activated and how?,0,activate_my_card
+394,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What are the steps to activating a new card?",activate_my_card,What are the steps to activating a new card?,0,activate_my_card
+395,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I would like to activate my card to use now, can you help me?",activate_my_card,"I would like to activate my card to use now, can you help me?",0,activate_my_card
+396,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+How do I activate a new card?",activate_my_card,How do I activate a new card?,0,activate_my_card
+397,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I just got this card & I don't know how to activate it.",activate_my_card,I just got this card & I don't know how to activate it.,0,activate_my_card
+398,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+I got my new card. How do I activate it?",activate_my_card,I got my new card. How do I activate it?,0,activate_my_card
+399,"Classify the banking customer intent.
+Return only one label from the allowed labels.
+
+Allowed labels:
+card_arrival, card_not_working, declined_card_payment, card_payment_not_recognised, card_payment_fee_charged, card_swallowed, lost_or_stolen_card, pending_card_payment, card_delivery_estimate, activate_my_card
+
+Message:
+What do I need to do to activate my card?",activate_my_card,What do I need to do to activate my card?,0,activate_my_card
