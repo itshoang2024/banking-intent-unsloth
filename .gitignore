@@ -1,2 +1,4 @@
 .env
 hf_cache/
+.vscode/
+notebooks/
