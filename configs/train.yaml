@@ -1,0 +1,72 @@
+dataset:
+  name: PolyAI/banking77
+  revision: refs/pr/6
+  train_split: train
+  test_split: test
+  cache_dir: ../hf_cache
+  selected_labels:
+    - card_arrival
+    - card_not_working
+    - declined_card_payment
+    - card_payment_not_recognised
+    - card_payment_fee_charged
+    - card_swallowed
+    - lost_or_stolen_card
+    - pending_card_payment
+    - card_delivery_estimate
+    - activate_my_card
+
+output:
+  train_csv: ../sample_data/train.csv
+  test_csv: ../sample_data/test.csv
+  label_mapping_path: ../configs/label_mapping.json
+  model_dir: ../outputs/qwen25-banking-lora
+
+data:
+  train_csv: ../sample_data/train.csv
+  test_csv: ../sample_data/test.csv
+  label_mapping_path: ../configs/label_mapping.json
+
+model:
+  name: unsloth/Qwen2.5-1.5B-Instruct
+  max_seq_length: 512
+  dtype: null
+  load_in_4bit: true
+
+lora:
+  r: 16
+  lora_alpha: 16
+  lora_dropout: 0.0
+  bias: none
+  use_gradient_checkpointing: unsloth
+  random_state: 42
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+
+trainer:
+  per_device_train_batch_size: 2
+  gradient_accumulation_steps: 4
+  learning_rate: 2.0e-4
+  num_train_epochs: 2
+  logging_steps: 10
+  eval_strategy: steps
+  eval_steps: 50
+  eval_subset_size: 200
+  save_steps: 100
+  save_total_limit: 2
+  warmup_steps: 10
+  lr_scheduler_type: linear
+  weight_decay: 0.01
+  fp16: false
+  bf16: false
+  optim: adamw_8bit
+  report_to: none
+  seed: 42
+  dataset_text_field: text
+  packing: false
