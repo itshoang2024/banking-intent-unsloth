@@ -2,3 +2,4 @@
 hf_cache/
 .vscode/
 notebooks/
+outputs/qwen25-banking-lora/
