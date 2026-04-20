@@ -2,3 +2,7 @@ datasets==4.8.4
 pandas==2.3.3
 scikit-learn==1.7.2
 unsloth==2025.11.1
+PyYAML==6.0.3
+tqdm==4.67.3
+trl==0.23.0
+transformers==4.57.2
