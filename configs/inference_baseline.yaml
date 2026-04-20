@@ -1,0 +1,16 @@
+model:
+  checkpoint_dir: unsloth/Qwen2.5-1.5B-Instruct
+  max_seq_length: 512
+  dtype: null
+  load_in_4bit: true
+
+data:
+  label_mapping_path: ../configs/label_mapping.json
+  test_csv: ../sample_data/test.csv
+
+inference:
+  max_new_tokens: 16
+  do_sample: false
+
+output:
+  prediction_csv: ../outputs/eval_baseline_predictions.csv
